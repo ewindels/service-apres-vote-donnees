@@ -1,0 +1,22 @@
+name: Déclencher le rebuild du site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'dispositifs/**'
+      - 'referentiels/**'
+
+jobs:
+  deployer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Appeler le Deploy Hook Cloudflare
+        env:
+          HOOK_URL: ${{ secrets.CLOUDFLARE_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -z "$HOOK_URL" ]; then
+            echo "CLOUDFLARE_DEPLOY_HOOK_URL non configuré : rebuild ignoré."
+            exit 0
+          fi
+          curl -fsSL -X POST "$HOOK_URL"

@@ -1,0 +1,26 @@
+name: Proposer une mise à jour ou une nouvelle source
+description: Signaler un rapport plus récent, de nouveaux chiffres annuels ou une étude évaluative publiée.
+title: "[mise-a-jour] "
+labels: ["mise-a-jour"]
+body:
+  - type: input
+    id: fiche
+    attributes:
+      label: Fiche concernée
+      placeholder: ex. maprimerenov
+    validations:
+      required: true
+  - type: textarea
+    id: apport
+    attributes:
+      label: Qu'apporte cette nouvelle source ?
+      description: Nouveaux chiffres pour une série, nouvelle évaluation de l'effet, réforme récente, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Lien vers la source primaire
+      description: URL officielle du rapport, de la série statistique ou du texte de loi.
+    validations:
+      required: true

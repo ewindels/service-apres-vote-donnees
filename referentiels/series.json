@@ -1,0 +1,29 @@
+{
+  "insee_taux_invest_snf": {
+    "source": "Insee, comptes nationaux annuels base 2020, série 011793884",
+    "producteur": "contexte",
+    "points": [
+      { "annee": 2005, "valeur": 21 },
+      { "annee": 2006, "valeur": 22 },
+      { "annee": 2007, "valeur": 22 },
+      { "annee": 2008, "valeur": 22 },
+      { "annee": 2009, "valeur": 21 },
+      { "annee": 2010, "valeur": 21 },
+      { "annee": 2011, "valeur": 21 },
+      { "annee": 2012, "valeur": 21 },
+      { "annee": 2013, "valeur": 20 },
+      { "annee": 2014, "valeur": 20 },
+      { "annee": 2015, "valeur": 20 },
+      { "annee": 2016, "valeur": 21 },
+      { "annee": 2017, "valeur": 21 },
+      { "annee": 2018, "valeur": 22 },
+      { "annee": 2019, "valeur": 22 },
+      { "annee": 2020, "valeur": 22 },
+      { "annee": 2021, "valeur": 23 },
+      { "annee": 2022, "valeur": 23 },
+      { "annee": 2023, "valeur": 23 },
+      { "annee": 2024, "valeur": 22 },
+      { "annee": 2025, "valeur": 23 }
+    ]
+  }
+}

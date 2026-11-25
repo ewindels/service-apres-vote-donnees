@@ -1,0 +1,26 @@
+name: Suggérer un dispositif à auditer
+description: Proposer un nouveau dispositif public français à ajouter à Service après-vote.
+title: "[proposition] "
+labels: ["prochaine-fiche"]
+body:
+  - type: input
+    id: nom
+    attributes:
+      label: Nom du dispositif public
+      placeholder: ex. Pass Culture, ZFE, Crédit d'impôt services à la personne…
+    validations:
+      required: true
+  - type: textarea
+    id: contexte
+    attributes:
+      label: Pourquoi ce dispositif ?
+      description: Enjeu budgétaire ou sociétal, loi fondatrice si connue, objectif affiché.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources primaires connues (facultatif)
+      description: Rapports de la Cour des comptes, évaluations, annexes budgétaires, données Insee…
+    validations:
+      required: false

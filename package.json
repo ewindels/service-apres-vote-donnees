@@ -1,0 +1,16 @@
+{
+  "name": "service-apres-vote-donnees",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Données publiques, fiches d'audit et méthodologie de Service après-vote (service-apres-vote.fr).",
+  "scripts": {
+    "test": "node scripts/check-fiche.mjs --all --no-quotes",
+    "check": "node scripts/check-fiche.mjs"
+  },
+  "dependencies": {
+    "yaml": "^2.7.0"
+  },
+  "volta": {
+    "node": "22.23.5"
+  }
+}

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Consulter le site Service après-vote
+    url: https://service-apres-vote.fr
+    about: Lire les fiches publiées et la méthodologie en ligne.
+  - name: Consulter la méthodologie complète
+    url: https://github.com/ewindels/service-apres-vote-donnees/blob/main/methode.md
+    about: Comprendre les règles de choix des effets, de preuve et de notation.

@@ -1,0 +1,32 @@
+# Licences — Service après-vote (données)
+
+## Données, fiches et méthodologie : Licence Ouverte / Open Licence v2.0 (Etalab)
+
+Les fichiers contenus dans `dispositifs/`, `referentiels/` ainsi que `methode.md` sont publiés sous **Licence Ouverte / Open Licence version 2.0** (compatible avec la licence Creative Commons Attribution 4.0 — CC BY 4.0).
+
+Texte intégral officiel : https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf
+
+### En résumé
+
+Vous êtes libre de :
+- **reproduire, copier, publier et transmettre** les données ;
+- **diffuser et redistribuer** les données ;
+- **adapter, modifier, extraire et transformer** les données, y compris pour créer des informations dérivées ;
+- **exploiter** les données à titre commercial ou non commercial.
+
+Sous réserve de :
+- **mentionner la paternité** de la source (« Service après-vote — service-apres-vote.fr ») ainsi que la date de dernière mise à jour des données réutilisées.
+
+Les documents primaires cités dans les fiches (rapports publics, lois, données Insee, Cour des comptes, études académiques) restent soumis aux droits et licences de leurs éditeurs respectifs.
+
+---
+
+## Scripts de validation (`scripts/`) : Licence MIT
+
+Copyright (c) 2026 Service après-vote
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
