@@ -143,8 +143,8 @@ effets:
     indicateur: "Dépenses annuelles du CPF financées par France compétences, en euros"
     unite: "€"
     engagement:
-      note: sans_chiffre
-      constat: "Aucun plafond de dépense n'a été voté en 2018, malgré une estimation globale des ressources mutualisées."
+      note: ignore
+      constat: "Dépense votée à guichet ouvert sans plafond ni prévision sérieuse de son coût propre."
       points:
         - "« La loi du 5 septembre 2018 ne s’est fondée sur aucune prévision sérieuse de sa soutenabilité financière. » et n'a fixé aucun plafond au CPF (Cour des comptes, 2023, p. 14-15)."
         - "L'étude d'impact estimait seulement la ressource mutualisée CIF et CPF entre 2,1 Md€ en 2019–2020 et 2,3 Md€ en 2022 (Étude d'impact, 2018, p. 39)."

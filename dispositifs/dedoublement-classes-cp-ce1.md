@@ -106,8 +106,8 @@ effets:
     indicateur: "Surcoût annuel en postes d'enseignants du dédoublement (GS-CP-CE1)"
     unite: "€"
     engagement:
-      note: sans_chiffre
-      constat: "Aucun plafond de coût en régime permanent n'a été annoncé, ni au lancement ni lors de l'extension en maternelle."
+      note: ignore
+      constat: "Aucun coût en régime permanent ni plafond n'a été chiffré, ni au lancement ni lors de l'extension en maternelle."
       points:
         - "Le PLF 2018 estime le coût de la première montée en charge à 154 M€ hors pensions pour 2018, sans chiffrer le coût total en année pleine (Sénat, PLF 2018, p. 28)."
         - "Seul le volume de classes a été annoncé au départ : plus de 11 000 classes de CP et CE1 d'ici 2020 (Sénat, PLF 2018, p. 26-27)."

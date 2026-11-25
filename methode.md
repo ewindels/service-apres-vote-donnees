@@ -70,7 +70,7 @@ Pour arbitrer quels effets retenir, scinder ou écarter, on raisonne comme une a
 | --- | --- | --- |
 | vert | **Chiffré** | Une cible chiffrée avec un horizon (ou un plafond, pour un effet indésirable). |
 | orange | **Sans chiffre** | L'effet est évoqué (« réduire la consommation »), sans cible mesurable. Un point cite la phrase. |
-| rouge | **Ignoré** | Rien dans les sources ci-dessous. Pour un effet secondaire prévisible, c'est un constat en soi. |
+| rouge | **Ignoré** *(ou **Aucun chiffrage**)* | Rien dans les sources ci-dessous. Pour un effet secondaire prévisible, c'est un constat en soi ; sur une ligne budgétaire, dépense votée à guichet ouvert sans plafond ni prévision sérieuse. |
 
 **Où chercher : le standard d'une entreprise cotée.** Un chiffre compte s'il a été rendu public par le gouvernement ou le rapporteur, par les canaux où un lecteur sérieux le chercherait. C'est l'équivalent des objectifs qu'une entreprise annonce dans ses communiqués ou son rapport annuel. Une annonce en séance ou dans un communiqué compte donc. On consulte, dans cet ordre :
 
@@ -86,6 +86,11 @@ Si le chiffre n'est dans aucune de ces sources, il est **« sans chiffre »**. U
 **Cibles issues d'un plan national.** Un objectif chiffré publié hors de la loi fiscale, dans un plan gouvernemental officiel (par exemple un programme national de lutte contre le tabac), compte comme engagement chiffré si trois conditions sont réunies : il est chiffré et daté, il porte sur l'indicateur exact suivi par la fiche, et le dispositif en est le levier principal. Un point précise alors que la cible couvre l'ensemble du plan. À l'inverse, une recommandation individuelle non datée (un verre de boisson sucrée par jour dans le PNNS) ou un objectif macroéconomique qui dépasse largement le dispositif (3 % du PIB en recherche pour le CIR) restent « sans chiffre ».
 
 **Une estimation n'est pas toujours une cible.** Une estimation de recettes supplémentaires « à comportements inchangés », donnée pour une réforme, est un calcul mécanique, pas un engagement sur ce que rapportera le dispositif. Elle n'est pas une cible. La cible reste la dernière annonce du rendement total du dispositif, avec sa date, et ces estimations figurent dans les points de l'engagement. Exemple : le soda garde sa cible de 120 M€ (2012), malgré les estimations des réformes de 2018 et 2025.
+
+**Lignes budgétaires (`role: budget`, en particulier `nature: cout`).** Pour éviter de traiter à égalité une enveloppe encadrée et une dépense ouverte sans chiffrage, l'axe « Engagement » distingue trois niveaux sur les lignes budgétaires :
+* **`chiffre` (vert)** : un plafond ou une trajectoire pluriannuelle chiffrée et en vigueur sur le périmètre du dispositif ;
+* **`sans_chiffre` (orange)** : une cible chiffrée antérieure abandonnée (conservée dans `engagement.cibles` sur ses années passées, par exemple MaPrimeRénov' ou le bonus écologique), une estimation de coût ponctuelle sur le bon périmètre mais sans plafond pérenne, ou un impôt ancien à vocation de rendement sans cible pluriannuelle globale ;
+* **`ignore` (rouge, affiché « Aucun chiffrage »)** : une dépense ou une perte de recettes votée à guichet ouvert sans plafond ni prévision sérieuse de coût sur son périmètre (par exemple le CPF 2018, le bouclier tarifaire, les aides à l'embauche d'apprentis ou le Pacte Dutreil).
 
 **Cibles en variation ou en fourchette.** Lorsqu'une promesse officielle est annoncée en fourchette (par exemple « 300 à 400 vies sauvées par an » pour les 80 km/h), on retient la borne minimale comme seuil d'atteinte (`au_moins: 300`) et la fourchette complète figure dans les points. Lorsqu'elle porte sur une variation par rapport à un scénario contrefactuel, la série trace soit l'effet causal estimé dans l'unité de la cible, soit le niveau annuel de l'indicateur avec la cible convertie dans cette unité (et expliquée dans les points).
 

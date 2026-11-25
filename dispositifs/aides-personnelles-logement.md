@@ -120,8 +120,8 @@ effets:
     indicateur: "Montant annuel des aides personnelles versées"
     unite: "€"
     engagement:
-      note: sans_chiffre
-      constat: "L'État ne fixe aucun plafond pluriannuel de dépense, seulement des crédits annuels et des objectifs d'économies."
+      note: ignore
+      constat: "Dépense de guichet, les aides n'ont aucun plafond ni prévision pluriannuelle, seulement des crédits annuels."
       points:
         - "Ni la loi de 1977 ni les réformes suivantes ne plafonnent la dépense totale ; les crédits votés chaque année ont souvent été dépassés en exécution (Cour des comptes, 2015, p. 39 ; NEB 2025, p. 23)."
         - "La réforme de 2018 visait 1,7 Md€ d'économies, dont 1,5 Md€ via la baisse de loyer HLM (RLS), ramenée à 1,3 Md€ puis 900 M€ en 2026 (PLF 2018, EP, p. 295 ; NEB 2025, p. 37)."

@@ -137,8 +137,8 @@ effets:
     indicateur: "Perte annuelle d'impôts et prélèvements sociaux sur les loyers"
     unite: "€"
     engagement:
-      note: sans_chiffre
-      constat: "L'impact sur les impôts fonciers avait été évoqué lors de la loi ALUR, mais jamais chiffré ni plafonné."
+      note: ignore
+      constat: "La perte d'impôts fonciers n'a jamais été chiffrée ni plafonnée, et a été ignorée lors de la relance du dispositif."
       points:
         - "L'étude d'impact ALUR notait des « conséquences sur les recettes fiscales » (impôt sur le revenu et prélèvements sociaux), sans aucun chiffrage (Étude d'impact PJL ALUR, 2013, art. 3)."
         - "L'étude d'impact de la loi ÉLAN ne chiffre aucune perte fiscale liée à la modération des loyers (Étude d'impact PJL ÉLAN, 2018, art. 49)."

@@ -161,8 +161,8 @@ effets:
     indicateur: "Manque à gagner annuel en droits de mutation à titre gratuit"
     unite: "€"
     engagement:
-      note: sans_chiffre
-      constat: "L'État n'a jamais fixé de plafond ni d'objectif chiffré pour le coût budgétaire du dispositif."
+      note: ignore
+      constat: "L'État n'a jamais fixé de plafond ni publié de prévision de coût au vote, y compris lors des réformes récentes."
       points:
         - "Aucun coût annuel prévisionnel ni plafond n'a été fixé lors des votes de 1999, 2003 ou 2005 (Sénat, rapport n° 440, 2017 ; Cour des comptes, 2025, p. 10, 25)."
         - "En 2019, l'évaluation préalable indique que « Les données disponibles ne permettent pas de chiffrer le coût des différentes adaptations proposées. » (PLF 2019, EP art. 16, p. 168)."

@@ -97,8 +97,8 @@ effets:
     indicateur: "Coût annuel du quotient familial enfants (périmètre DGFiP)"
     unite: "Md€"
     engagement:
-      note: sans_chiffre
-      constat: "Aucun plafond de coût global n'a été fixé ; seules les économies des baisses de plafond ont été estimées."
+      note: ignore
+      constat: "Niche ouverte sans plafond ni prévision de coût global ; seules les économies des baisses de plafond ont été estimées."
       points:
         - "Aucun coût maximal n'a été annoncé à la création ni lors du plafonnement initial de 1982 (Cour des comptes, 2023, p. 20 et 71)."
         - "L'abaissement du plafond à 2 000 € devait rapporter 490 M€ par an à l'État, à comportements inchangés (PLF 2013, EP, p. 27)."

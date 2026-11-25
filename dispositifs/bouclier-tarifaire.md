@@ -115,7 +115,7 @@ effets:
     indicateur: "Compensations budgétaires des boucliers tarifaires, en euros"
     unite: "€"
     engagement:
-      note: sans_chiffre
+      note: ignore
       constat: "Conçu à guichet ouvert selon les prix de marché, le bouclier n'a jamais été encadré par un plafond de dépense légal."
       points:
         - "À l'automne 2021, les boucliers étaient conçus comme transitoires et devant être rattrapés sur les tarifs, sans crédit ouvert en loi de finances initiale pour 2022 (Cour des comptes, 2024, p. 32)."

@@ -115,8 +115,8 @@ effets:
     indicateur: "Dépenses annuelles d'aides à l'embauche d'apprentis (CP exécutés)"
     unite: "euros"
     engagement:
-      note: sans_chiffre
-      constat: "L'État n'a fixé aucun plafond pluriannuel de dépense depuis l'ouverture de l'aide exceptionnelle en guichet ouvert."
+      note: ignore
+      constat: "Ouverte en guichet ouvert, la dépense n'est encadrée par aucun plafond légal ni prévision sérieuse de coût."
       points:
         - "En 2018, l'aide unique était annoncée à coût constant par redéploiement de cinq aides (704 M€ en engagements pour 2019), sans plafond de paiement (Sénat, 2018)."
         - "En juillet 2020, l'aide exceptionnelle était chiffrée à 500 M€ en engagements et 300 M€ en paiements pour 2020, avant d'être prolongée sans plafond (Sénat, 2020)."
