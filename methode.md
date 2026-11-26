@@ -22,6 +22,8 @@ Les trois axes sont indépendants, et aucun n'efface les autres. Un dispositif p
 
 **On juge le dispositif dans son état actuel.** Les réformes successives n'ont pas chacune leur ligne. Chaque engagement est daté, et les réformes restent visibles sur les graphiques et dans le bloc « Le dispositif » (voir section 4, « Réformes »).
 
+**La charge de la preuve porte sur l'existence du dispositif.** On audite un dispositif (impôt, dépense, niche, règle) pour vérifier si son existence est justifiée, pas sa suppression : supprimer un dispositif n'est pas un dispositif. Lorsqu'un dispositif a été supprimé ou largement réduit (taxe d'habitation sur les résidences principales, CVAE…), la fiche porte sur le dispositif lui-même et son histoire ; les effets observés de sa suppression servent de preuve rétrospective pour mesurer ce qu'il produisait réellement. Seules les réformes ciblées d'un grand impôt pérenne assorties d'une promesse économique propre (baisse du taux d'IS, remplacement de l'ISF par l'IFI) font exception.
+
 ## 3. Choisir les effets
 
 ### Ce qu'on liste
@@ -94,7 +96,7 @@ Si le chiffre n'est dans aucune de ces sources, il est **« sans chiffre »**. U
 
 **Cibles en variation ou en fourchette.** Lorsqu'une promesse officielle est annoncée en fourchette (par exemple « 300 à 400 vies sauvées par an » pour les 80 km/h), on retient la borne minimale comme seuil d'atteinte (`au_moins: 300`) et la fourchette complète figure dans les points. Lorsqu'elle porte sur une variation par rapport à un scénario contrefactuel, la série trace soit l'effet causal estimé dans l'unité de la cible, soit le niveau annuel de l'indicateur avec la cible convertie dans cette unité (et expliquée dans les points).
 
-**Réforme de baisse d'impôt.** Par défaut, on audite le dispositif lui-même plutôt que sa suppression, afin que la charge de la preuve porte sur l'existence de la règle ou de l'impôt. Quand une fiche porte sur une réforme ciblée d'un grand impôt pérenne (baisse du taux d'IS, remplacement de l'ISF par l'IFI), sa ligne budgétaire porte sur le **coût propre de la réforme** (`nature: cout`, manque à gagner annuel estimé), comparé à la perte annoncée (`sens: au_plus`), et non sur les recettes totales de l'impôt résiduel.
+**Réforme ciblée d'un grand impôt.** Lorsque, par exception (section 2), une fiche porte sur une réforme ciblée d'un grand impôt pérenne assortie d'une promesse économique propre (baisse du taux d'IS, remplacement de l'ISF par l'IFI), sa ligne budgétaire porte sur le **coût propre de la réforme** (`nature: cout`, manque à gagner annuel estimé), comparé à la perte annoncée (`sens: au_plus`), et non sur les recettes totales de l'impôt résiduel.
 
 ### Mesure
 
