@@ -1,6 +1,6 @@
 ---
 titre: "Baisse de l'impôt sur les sociétés de 33 % à 25 %"
-resume: "L'effet de la baisse de l'impôt sur les sociétés sur l'investissement reste non mesuré. L'État n'a fixé aucune cible économique ni prévu d'évaluation au vote. Malgré un manque à gagner proche de 12 Md€ par an, les recettes atteignent 59,9 Md€ en 2025 grâce à la hausse des profits."
+resume: "L'effet de la baisse de l'impôt sur les sociétés sur l'investissement reste non mesuré. L'État n'a fixé aucune cible économique ni prévu d'évaluation au vote. Le coût statique est estimé à 11,7 Md€ en 2023 ; les recettes totales atteignent 59,9 Md€ courants en 2025, portées par les profits."
 theme: entreprises
 instrument: prelevement
 statut: en_vigueur
@@ -164,10 +164,10 @@ effets:
       label: "DGFiP Statistiques n° 43, budget 2025, mars 2026, tableau 1"
       url: "https://www.impots.gouv.fr/sites/default/files/media/9_statistiques/0_etudes_et_stats/0_publications/dgfip_statistiques/2026/num43_03/dgfip_stat43_budget_2025.pdf"
   effet:
-    constat: "11,7 Md€ de manque à gagner en 2023, proche de la cible ; les recettes totales d'IS atteignent 59,9 Md€ en 2025."
+    constat: "11,7 Md€ de coût statique en 2023, proche de la cible ; les recettes totales atteignent 59,9 Md€ courants en 2025."
     points:
     - "À bénéfices inchangés, le coût statique atteint 11,3 Md€ en 2022 et 11,7 Md€ en 2023, en ligne avec les 11,2 Md€ annoncés (DG Trésor, cité par France Stratégie, 2023, p. 62)."
-    - "En euros courants, les recettes totales d'IS ont tout de même plus que doublé, de 27,4 Md€ en 2018 à 62,1 Md€ en 2022 et 59,9 Md€ en 2025 (Voies et moyens, tome I)."
+    - "En euros courants, les recettes totales d'IS ont plus que doublé, de 27,4 Md€ en 2018 à 62,1 Md€ en 2022 et 59,9 Md€ en 2025 (Voies et moyens, tome I)."
     - "Ce rebond tient à la forte hausse des bénéfices fiscaux (+68 % entre 2016 et 2022) et à la fin des restitutions de CICE (Insee-DGFiP, 2025, p. 31)."
     - "En 2025, la contribution exceptionnelle sur les grandes entreprises (CA ≥ 1 Md€) a rapporté 7,5 Md€ supplémentaires, sur une ligne distincte (DGFiP Stat n° 43, tableau 1)."
     sources:
@@ -206,14 +206,14 @@ effets:
       valeur: 11700000000
       producteur: etat
       source: "DG Trésor, cité par France Stratégie, rapport final, oct. 2023, tableau 9, p. 62"
-- libelle: "Captation en dividendes ou marges"
+- libelle: "Part en dividendes ou marges"
   role: secondaire
   nature: comportement
   indicateur: "Part de la baisse d'IS reversée en dividendes ou conservée en marges"
   unite: "%"
   engagement:
     note: ignore
-    constat: "La baisse du taux d'IS n'a été assortie d'aucune condition ni garde-fou sur le versement de dividendes."
+    constat: "La baisse du taux d'IS n'a été assortie d'aucune condition d'affectation entre investissement, marges et dividendes."
     points:
     - "L'évaluation préalable et le rapport parlementaire ne prévoient aucune condition d'investissement ou de retenue sur les distributions aux actionnaires (PLF 2018, EP, p. 229 ; AN n° 273, t. III)."
     - "L'analyse économique rappelle qu'une baisse d'impôt sur les bénéfices peut accroître les dividendes ou les marges plutôt que l'investissement ou les salaires."

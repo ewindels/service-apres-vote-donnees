@@ -1,6 +1,6 @@
 ---
 titre: "Pass Culture"
-resume: "Le pass Culture a un effet limité sur les pratiques culturelles et génère un effet d'aubaine avéré. L'État n'avait fixé aucune cible chiffrée sur la diversification et n'a évalué le dispositif qu'en 2024. Sa part individuelle a dépassé chaque budget voté depuis 2020."
+resume: "La part individuelle du pass Culture a un effet limité sur les pratiques culturelles et un effet d'aubaine avéré. L'État n'a fixé aucune cible de diversification et n'a évalué le dispositif qu'en 2024. Sa part individuelle a dépassé chaque budget voté depuis 2020 (188 M€ en 2025)."
 theme: culture
 instrument: depense_budgetaire
 rattachement:

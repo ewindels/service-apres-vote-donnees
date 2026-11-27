@@ -1,6 +1,6 @@
 ---
 titre: "Prélèvement forfaitaire unique (PFU, « flat tax »)"
-resume: "La « flat tax » n'a qu'un effet limité sur l'investissement des entreprises : aucun sur les firmes existantes, un effet sur les créations mêlé à la baisse de l'impôt sur les sociétés. L'État n'a fixé aucune cible, et le suivi inscrit dans la loi s'est arrêté en 2023. Les dividendes ont bondi."
+resume: "La « flat tax » a un effet limité sur l'investissement (nul sur les firmes existantes, mêlé à l'IS sur les créations). L'État n'a fixé aucune cible et le suivi a cessé en 2023. La forte hausse des dividendes a annulé le coût budgétaire les premières années."
 theme: entreprises
 instrument: prelevement
 statut: en_vigueur
@@ -151,7 +151,7 @@ effets:
       url: "https://www.budget.gouv.fr/documentation"
     - *fs2023
   effet:
-    constat: "7,9 Md€ d'acompte d'impôt sur le revenu en 2025, près de trois fois le niveau attendu après la baisse."
+    constat: "7,9 Md€ d'acompte d'impôt sur le revenu en 2025 ; le déstockage de dividendes a annulé le coût à court terme."
     points:
     - "L'acompte PFO/PFU (12,8 % IR) a plus que doublé, de 3,5 Md€ en 2018-2019 à 4,9 Md€ en 2021, 6,3 Md€ en 2023 et 7,9 Md€ en 2025 (Voies et moyens, tome I, PLF 2020 à 2027)."
     - "Le coût statique réel en 2018 est estimé entre 600 et 900 M€ par l'IPP et à 1 050 M€ par Sicsic et Paquier (France Stratégie, 2023, p. 216)."

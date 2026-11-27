@@ -1,6 +1,6 @@
 ---
 titre: "Plan d'épargne retraite (PER)"
-resume: "Le PER a un effet limité sur l'épargne nouvelle et le financement des entreprises, deux tiers des encours venant de transferts. Le suivi d'évaluation a cessé après 2023 et le coût fiscal, d'au moins 1,78 Md€ en 2022, n'est suivi dans aucun budget annuel."
+resume: "Le PER a un effet limité sur l'épargne nouvelle et le financement des entreprises, deux tiers des encours venant de transferts. Le suivi a cessé après 2023. Le coût fiscal net (déduction à l'entrée moins imposition à la sortie) est estimé à au moins 1,78 Md€ en 2022, sans suivi annuel."
 theme: retraites
 instrument: depense_fiscale
 statut: en_vigueur
@@ -121,7 +121,7 @@ effets:
         - { label: "Cour des comptes, L'épargne retraite, nov. 2024, p. 48-55 et 127", url: "https://www.ccomptes.fr/fr/publications/lepargne-retraite" }
         - { label: "Assemblée nationale, rapport d'information n° 288, sept. 2024, p. 67-69 et 147", url: "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_fin/l17b0288_rapport-information.pdf" }
     effet:
-      constat: "Un coût net d'au moins 1,78 milliard d'euros en 2022, sans plafond ni suivi annuel public."
+      constat: "Coût net d'au moins 1,78 Md€ en 2022 (déduction à l'entrée moins sortie), sans plafond ni suivi annuel public."
       points:
         - "En 2022, le coût net minimum atteint 1 784 M€ : 812 M€ sur l'épargne salariale, 365 M€ de report, 365 M€ de baisse de tranche et 243 M€ en sortie capital (Cour des comptes, 2024, p. 55)."
         - "En perte brute immédiate d'impôt (hors indépendants), la déduction pèse 1,58 Md€ en 2021 (DLF, cité par AN n° 288, p. 68) et 1,64 Md€ en 2022 (DGFiP, Cour des comptes, p. 127)."

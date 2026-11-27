@@ -1,6 +1,6 @@
 ---
 titre: "Rupture conventionnelle individuelle"
-resume: "La rupture conventionnelle a un effet limité sur son objectif : les saisines prud'homales ont reculé, mais elle a surtout remplacé des démissions. L'État n'avait fixé aucun objectif chiffré ni prévu d'évaluation au vote. En 2024, elle coûte 9,4 Md€ à l'Assurance chômage."
+resume: "La rupture conventionnelle a un effet limité : les litiges prud'homaux ont reculé, mais elle a surtout remplacé des démissions. L'État n'avait fixé aucune cible ni prévu d'évaluation au vote. En 2024, les allocations brutes versées atteignent 9,4 Md€, hors substitutions."
 theme: travail
 instrument: regle
 statut: en_vigueur
@@ -167,7 +167,7 @@ effets:
           label: "PLRG 2025, RAP Mission Travail, emploi et administration des ministères sociaux, p. 128 et 291"
           url: "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2025/le-projet-de-loi-relative-aux-resultats-de-la-gestion-et-portant-approbation-des-comptes-de-lannee-2025/rapports-annuels-de-performances"
     effet:
-      constat: "9,4 Md€ d'allocations en 2024, soit plus d'un quart des dépenses totales de l'Assurance chômage."
+      constat: "9,4 Md€ d'allocations brutes en 2024 (un quart des dépenses Unédic), sans déduire les licenciements substitués."
       points:
         - "En 2024, 565 000 allocataires sont indemnisés en moyenne par mois après une rupture conventionnelle (20 % du total), dont 320 M€ d'aide à la création d'entreprise (Unédic, 2026, p. 1, 10)."
         - "La durée moyenne indemnisée atteint 15 mois (64 % des droits consommés), légèrement au-dessus des licenciements économiques ou personnels (Unédic, 2026, p. 16)."
@@ -182,7 +182,7 @@ effets:
       points:
         - { annee: 2024, valeur: 9400000000, producteur: independant, source: "Unédic, Panorama statistique sur les ruptures conventionnelles, fév. 2026, p. 11" }
 
-  - libelle: "Effet d'aubaine (démissions)"
+  - libelle: "Substitution aux démissions"
     role: secondaire
     nature: comportement
     indicateur: "Part des ruptures conventionnelles substituées à des démissions"

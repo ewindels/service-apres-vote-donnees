@@ -1,6 +1,6 @@
 ---
 titre: "Crédit d'impôt services à la personne (emploi à domicile)"
-resume: "Le crédit d'impôt services à la personne n'a pas atteint son objectif d'emploi et n'a qu'un effet limité sur le travail non déclaré. L'État a abandonné ses cibles chiffrées et son suivi de l'emploi. Le coût public a quadruplé depuis 2004, à 6,88 Md€ en 2025."
+resume: "Le crédit d'impôt services à la personne n'a pas atteint son objectif d'emploi et n'a qu'un effet limité sur le travail non déclaré. L'État a abandonné ses cibles chiffrées et son suivi de l'emploi. Son coût fiscal brut atteint 6,88 Md€ en 2025 après plusieurs élargissements."
 theme: travail
 instrument: depense_fiscale
 rattachement:
@@ -186,7 +186,7 @@ effets:
         - label: "Cour des comptes, Le soutien de l'État aux services à la personne, mars 2024, p. 66"
           url: "https://www.ccomptes.fr/fr/publications/le-soutien-de-letat-aux-services-la-personne"
     effet:
-      constat: "Le coût fiscal a quadruplé depuis 2004, pour atteindre 6,88 milliards d'euros en 2025."
+      constat: "Le coût fiscal brut atteint 6,88 Md€ en 2025, tiré par l'universalisation de 2017 et l'avance immédiate."
       points:
         - "Le coût total de l'article 199 sexdecies est passé de 1,70 Md€ en 2004 à 3,50 Md€ en 2017, puis 4,73 Md€ en 2018 après l'universalisation (DGFiP, Voies et moyens, t. II)."
         - "Il atteint 6,88 Md€ en 2025 (7,11 Md€ prévus en 2026), soit environ 16 % des dépenses fiscales sur l'impôt sur le revenu (PLF 2027, VM2, p. 49 ; Cour des comptes, 2024, p. 36)."

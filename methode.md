@@ -100,6 +100,8 @@ Une enveloppe annuelle votée en loi de finances (LFI) ou une trajectoire de *mo
 
 **Réforme ciblée d'un grand impôt.** Lorsque, par exception (section 2), une fiche porte sur une réforme ciblée d'un grand impôt pérenne assortie d'une promesse économique propre (baisse du taux d'IS, remplacement de l'ISF par l'IFI), sa ligne budgétaire porte sur le **coût propre de la réforme** (`nature: cout`, manque à gagner annuel estimé), comparé à la perte annoncée (`sens: au_plus`), et non sur les recettes totales de l'impôt résiduel.
 
+**Coût brut, coût statique et comparaisons pluriannuelles.** Sur toute ligne budgétaire (`role: budget`, `nature: cout`), lorsqu'un montant ne déduit ni d'éventuels effets de retour macroéconomiques ou fiscaux (ex. chiffrage *Voies et moyens* « à comportements inchangés » d'une niche ou baisse d'impôt) ni les dépenses substituées (ex. allocations versées en lieu et place d'une autre prestation), le `constat` — et le `resume` s'il reprend le chiffre — le qualifie explicitement de **« coût brut »** ou **« coût statique »** (et précise « à l'entrée, avant imposition à la sortie » pour un différé d'impôt). De même, sur une période longue (> 10 ans), on évite les multiplicateurs en euros courants sans mentionner l'inflation ni les extensions de périmètre décidées par la loi, afin de ne pas présenter une revalorisation votée comme un dérapage.
+
 ### Mesure
 
 | Couleur | Valeur | Sens |
@@ -246,6 +248,7 @@ S'y ajoute `engagement.cibles`, les cibles chiffrées par période : `{ sens, pe
    * Phrase 2 : l'engagement et la mesure.
    * Phrase 3, facultative : un fait budgétaire ou secondaire marquant, s'il n'est pas déjà dans la phrase 1.
    * 300 caractères et trois phrases au plus, vérifiés au build. Chaque fait cité figure dans une carte.
+   * **Neutralité et symétrie d'exposition.** Les `libelle`, `constat` et `resume` évitent tout terme normatif ou accusateur (« captation », « contournement », « mitage », « dérapage ») pour qualifier un mécanisme légal ou un comportement économique. Le chapô n'isole pas un coût brut ou un effet négatif sans sa contrepartie directe lorsqu'elle est documentée dans la fiche (gain net pour les bénéficiaires, retour fiscal mesuré, périmètre partiel de l'évaluation), ni ne gomme une réserve méthodologique majeure déjà présente dans les `points`.
 2. **Le bilan** : le nom de l'effet recherché en surtitre, son effet en titre, son engagement et sa mesure dessous, puis une ligne par effet, suivie d'une ligne dédiée au **coût de fonctionnement** (qui renvoie vers son bloc).
 3. **Les cartes des effets.**
 4. **Le coût de fonctionnement**, bloc compact placé après les cartes d'effets (sans graphique ni trois axes, puisqu'il n'y a ni promesse ni effet causal) : il répond à la question *« combien coûte la machine (collecte, versement, contrôle, opérateur) pour faire tourner ce dispositif, indépendamment de son rendement ou des montants transférés ? »*.

@@ -1,6 +1,6 @@
 ---
 titre: "Quotient familial et son plafonnement"
-resume: "Le quotient familial n'a qu'un effet limité sur la natalité. L'État ne s'est fixé aucune cible chiffrée et n'a pas évalué cet effet, mesuré seulement par la recherche. Retiré des dépenses fiscales en 1998, il coûte plus de 11,7 Md€ par an sans suivi budgétaire annuel."
+resume: "Le quotient familial n'a qu'un effet limité sur la natalité. L'État ne s'est fixé aucune cible chiffrée et n'a pas évalué cet effet, mesuré seulement par la recherche. Retiré des dépenses fiscales en 1998, il représente un coût statique d'au moins 11,7 Md€/an sans suivi annuel."
 theme: solidarites
 instrument: depense_fiscale
 statut: en_vigueur
@@ -98,7 +98,7 @@ effets:
     unite: "Md€"
     engagement:
       note: ignore
-      constat: "Niche ouverte sans plafond ni prévision de coût global ; seules les économies des baisses de plafond ont été estimées."
+      constat: "Mécanisme sans plafond ni prévision de coût global ; seules les économies des baisses de plafond ont été estimées."
       points:
         - "Aucun coût maximal n'a été annoncé à la création ni lors du plafonnement initial de 1982 (Cour des comptes, 2023, p. 20 et 71)."
         - "L'abaissement du plafond à 2 000 € devait rapporter 490 M€ par an à l'État, à comportements inchangés (PLF 2013, EP, p. 27)."
@@ -119,7 +119,7 @@ effets:
         - { label: "HCFEA, L'évolution des dépenses sociales et fiscales consacrées aux enfants à charge, 2021, p. 218-219", url: "https://hcfea.gouv.fr/sites/hcfea/files/2025-10/Rapport%20-%20Evolution%20des%20d%C3%A9penses%20sociales%20et%20fiscales.pdf" }
         - { label: "CPO, Conforter l'égalité des citoyens devant l'imposition des revenus, 2024, p. 119-120", url: "https://www.ccomptes.fr/sites/default/files/2024-09/20241010-Conforter-egalite-des-citoyens-devant-imposition-des-revenus.pdf" }
     effet:
-      constat: "Le coût du quotient familial enfants atteint 11,7 Md€ sur le périmètre restreint des impôts et 16,5 Md€ au sens large."
+      constat: "Le coût statique du quotient enfants atteint 11,7 Md€ en périmètre DGFiP et 16,5 Md€ au sens large."
       points:
         - "Sur le périmètre restreint des impôts (enfants rattachés et parent isolé), le coût passe de 12,4 Md€ en 2011 à 11,7 Md€ en 2020 (DGFiP, cité par AN, 2013 ; Cour des comptes, 2023, p. 73)."
         - "En périmètre large (toutes majorations et interactions), le quotient familial coûte 16,5 Md€ en 2021, soit 27,6 Md€ avec le quotient conjugal de 11,1 Md€ (Cour des comptes, 2023, p. 53)."

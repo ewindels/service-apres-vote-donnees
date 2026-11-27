@@ -1,6 +1,6 @@
 ---
 titre: "Prime d'activité"
-resume: "La prime d'activité a un effet limité sur l'emploi, même si elle réduit nettement la pauvreté des travailleurs modestes. L'État n'a fixé aucune cible chiffrée sur l'emploi et a attendu dix ans pour le mesurer. Son coût atteint 10,67 Md€ en 2025, plus du double de l'enveloppe initiale."
+resume: "La prime d'activité a un effet limité sur l'emploi, mais réduit nettement la pauvreté des travailleurs modestes. L'État n'a fixé aucune cible d'emploi et a attendu dix ans pour le mesurer. Son coût atteint 10,67 Md€ en 2025, doublé après la revalorisation votée en 2019."
 theme: travail
 instrument: depense_budgetaire
 rattachement:
@@ -168,7 +168,7 @@ effets:
         - { label: "RAP 2025, mission Solidarité, p. 40", url: "https://www.assemblee-nationale.fr/dyn/dyn/contenu/visualisation/1109937/file/Solidarite_insertion_egalite_chances_SE.pdf" }
         - { label: "Cour des comptes, La prime d'activité, juin 2026, p. 54, 102", url: "https://www.ccomptes.fr/fr/publications/la-prime-dactivite" }
     effet:
-      constat: "Le coût atteint 10,67 Md€ en 2025, soit plus du double de l'enveloppe initiale même corrigée de l'inflation."
+      constat: "10,67 Md€ en 2025, plus du double de 2016 après la revalorisation de 2019 et un recours supérieur aux prévisions."
       points:
         - "Dès 2016–2018, le coût dépasse la prévision (5,60 Md€ en 2018 contre 4,3 Md€) à cause d'un recours plus élevé que les 50 % anticipés (PLFSS 2020, annexe 6, p. 17)."
         - "La réforme de 2019 fait bondir la dépense de 5,60 à 9,57 Md€ (+4 Md€, bien au-delà des +2,7 Md€ prévus), pour 4,5 millions de foyers (Cour des comptes, 2026, p. 11, 21)."

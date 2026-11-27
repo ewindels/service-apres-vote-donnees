@@ -1,6 +1,6 @@
 ---
 titre: "Prime de partage de la valeur (ex-« prime Macron »)"
-resume: "La prime de partage de la valeur a un effet limité sur le pouvoir d'achat : elle se substitue pour environ 30 % aux hausses de salaire. L'État n'a fixé aucun objectif chiffré ni suivi son coût public, estimé à 1,1 Md€ pour la Sécurité sociale en 2022."
+resume: "La prime de partage de la valeur a un effet limité sur le pouvoir d'achat : environ 70 % de gain net, mais 30 % de substitution aux salaires. L'État n'a fixé aucune cible chiffrée ni suivi son coût statique, estimé à 1,1 Md€ pour la Sécurité sociale en 2022."
 theme: travail
 instrument: depense_fiscale
 statut: en_vigueur
@@ -128,7 +128,7 @@ effets:
         - { label: "Cour des comptes, Sécurité sociale 2024, p. 169 et 177", url: "https://www.ccomptes.fr/fr/publications/securite-sociale-2024" }
         - { label: "PLFSS 2025, annexe 4, p. 34 et 39-40", url: "http://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLFSS-2025/PLFSS2025-Annexe04.pdf" }
     effet:
-      constat: "Environ 1,1 Md€ de perte nette sociale en 2022, sans compter les pertes d'impôt sur le revenu et sur les sociétés."
+      constat: "Environ 1,1 Md€ de perte sociale statique en 2022, hors pertes d'impôt sur le revenu, d'IS et éventuels retours."
       points:
         - "La Cour des comptes évalue la perte nette de recettes sociales à 1,1 Md€ en 2022, compte tenu des allègements généraux qui se seraient appliqués (RALFSS 2024, p. 169)."
         - "En incluant l'impôt sur les sociétés et la substitution salariale, le CAE chiffre le coût public entre 21 et 38 centimes par euro réellement redistribué (Note n° 79, 2023, p. 10)."

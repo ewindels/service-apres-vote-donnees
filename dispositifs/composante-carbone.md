@@ -1,6 +1,6 @@
 ---
 titre: "Composante carbone des taxes sur l'énergie (« taxe carbone »)"
-resume: "Créée pour réduire les émissions des énergies fossiles, la composante carbone a vu son barème accéléré pour un objectif budgétaire avant d'être gelé fin 2018. Faute de comptabilité dédiée et d'évaluation de l'État, son rendement exact comme son effet propre sur les émissions restent mal connus."
+resume: "La composante carbone a un effet limité sur les émissions fossiles, gelée fin 2018 après une hausse budgétaire. Faute de comptabilité dédiée et d'évaluation de l'État, son rendement et son impact restent mal connus ; son poids pèse davantage sur les ménages modestes et ruraux."
 theme: environnement
 instrument: prelevement
 statut: en_vigueur
@@ -97,7 +97,7 @@ effets:
     - "Dans l'industrie (8 % des émissions soumises, hors quotas), la hausse des prix de l'énergie et de la taxe carbone a réduit les émissions des firmes assujetties (Dussaux, OCDE n° 154, 2020)."
     sources:
     - &src_cpo2019_rp5
-      label: "CPO, Rapport particulier n° 5, Les effets économiques de la fiscalité environnementale sur les ménages et les entreprises, septembre 2019, p. 24-25 et 30-35"
+      label: "CPO, Rapport particulier n° 5, Les effets économiques de la fiscalité environnementale sur les ménages et les entreprises, septembre 2019, p. 8-9, 24-25 et 30-35"
       url: "https://www.ccomptes.fr/system/files/2019-09/20190918-rapport-particulier5-CPO-fiscalite-environnementale.pdf"
     - *src_cpo2019_rp4
     - &src_sdes2025
@@ -229,6 +229,7 @@ effets:
     - "Entre 2013 et 2018, les recettes exécutées des trois accises fossiles (TICPE, TICGN, TICC) sont passées de 24,8 Md€ à 35,4 Md€ (+10,6 Md€), avant de plafonner autour de 34 à 35,7 Md€ hors Covid."
     - "Sur la base des volumes de 2016, le modèle Elfe du CGDD évalue la part carbone nette à 8,0 Md€ en 2019 (hors TVA), payée à 65 % par les ménages et 35 % par les entreprises (CPO 2019, RP5 p. 30)."
     - "La hausse de la part carbone a accru le coût des exonérations et remboursements d'accise, passé de 5,6 Md€ en 2014 à 7,6 Md€ en 2017 (AN n° 273, p. 266) et 15 Md€ en 2024 (CPO 2026, p. 61)."
+    - "Taxe régressive (poids supérieur pour les ménages modestes et ruraux) ; moins de 10 % des émissions industrielles paient le taux plein par souci de compétitivité (CPO 2019, RP5 p. 8-9)."
     sources:
     - *src_cpo2019_rp5
     - *src_r0273

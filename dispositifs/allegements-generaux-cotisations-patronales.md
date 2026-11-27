@@ -1,6 +1,6 @@
 ---
 titre: "Allègements généraux de cotisations patronales"
-resume: "Les allègements généraux ont un effet limité sur l'emploi : substantiel au Smic mais faible au-delà, pour 76,1 Md€ en 2025. L'État n'a fixé aucune cible chiffrée et a attendu trente-deux ans pour créer un comité de suivi. Leur barème entretient un risque modéré de trappe à bas salaires."
+resume: "Les allègements généraux ont un effet limité sur l'emploi : fort au Smic (~800 000 postes) mais faible au-delà, pour 76,1 Md€ bruts en 2025. L'État n'a fixé aucune cible et a créé un comité de suivi en 2025. Leur barème crée un risque modéré de trappe à bas salaires."
 theme: travail
 instrument: depense_fiscale
 statut: en_vigueur
@@ -269,7 +269,7 @@ effets:
       url: "https://www.securite-sociale.fr/la-secu-en-detail/comptes-de-la-securite-sociale/rapports-de-la-commission"
     - *bozio2024
   effet:
-    constat: "76,1 Md€ en 2025 sur le régime général, près de cinq fois le montant de 2004."
+    constat: "76,1 Md€ bruts en 2025 (2,7 % du PIB après bascule du CICE), coût statique avant effets de retour sur l'emploi."
     points:
     - "Sur le régime général, le coût passe de 15,9 Md€ en 2004 à 78,0 Md€ en 2024 avant un léger repli à 76,1 Md€ en 2025 après les premiers rabots (Urssaf Open Data)."
     - "En ajoutant les salariés agricoles et les indépendants, la CCSS mesure 77,6 Md€ en 2025 et prévoit 76,3 Md€ en 2026 puis 72,8 Md€ en 2027 (CCSS, oct. 2026, p. 67)."

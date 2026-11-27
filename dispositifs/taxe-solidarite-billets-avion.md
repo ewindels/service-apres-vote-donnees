@@ -1,6 +1,6 @@
 ---
 titre: "Taxe de solidarité sur les billets d'avion"
-resume: "La taxe sur les billets d'avion a un effet limité sur le trafic aérien, sans mesure du CO₂ évité. L'État ne s'est fixé aucun objectif climatique chiffré et n'a ouvert un suivi qu'en 2025. Ses recettes atteignent 1,15 Md€ en 2025, au prix d'une compétitivité dégradée."
+resume: "La taxe sur les billets d'avion a un effet limité sur le trafic aérien, sans mesure du CO₂ évité. L'État n'a fixé aucun objectif climatique chiffré et n'a ouvert un suivi qu'en 2025. Ses recettes atteignent 1,15 Md€ en 2025, avec un effet modéré sur la compétitivité."
 theme: environnement
 instrument: prelevement
 statut: en_vigueur

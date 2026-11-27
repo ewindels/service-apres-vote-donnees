@@ -1,6 +1,6 @@
 ---
 titre: "Encadrement des loyers"
-resume: "L'encadrement des loyers a un effet limité : les loyers reculent de 2 à 4 % en moyenne, avec plus d'un tiers de baux au-dessus du plafond. L'État n'a fixé aucun objectif chiffré et n'a remis son évaluation qu'en 2026. Les moindres impôts fonciers coûtent 181 M€ par an."
+resume: "L'encadrement des loyers a un effet limité : les loyers reculent de 2 à 4 % en moyenne (612 M€/an pour les locataires), malgré un tiers de dépassements. L'État n'a fixé aucune cible et n'a remis son bilan qu'en 2026. Les moindres impôts fonciers représentent 181 M€/an."
 theme: logement
 instrument: regle
 statut: en_vigueur
@@ -155,7 +155,7 @@ effets:
         - { label: "Mission Fack-Chapelle, L'encadrement des loyers, mai 2026, p. 58-61", url: "https://www.clcv.org/storage/app/media/RAPPORT%20FACK%20CHAPELLE.pdf" }
         - { label: "Cour des comptes, L'encadrement des loyers, oct. 2026, p. 83", url: "https://www.ccomptes.fr/sites/default/files/2026-10/20261014-Encadrement-des-loyers.pdf" }
     effet:
-      constat: "La baisse des revenus fonciers coûte 181 M€ par an à l'État et à la Sécurité sociale, soit un tiers du gain."
+      constat: "La baisse des loyers réduit les impôts fonciers de 181 M€/an (un tiers du gain de 612 M€ pour les locataires)."
       points:
         - "Pour un euro de baisse de loyer, « environ un tiers est financé par l'État via une baisse des recettes fiscales » et deux tiers par les bailleurs (Mission Fack-Chapelle, 2026, p. 68)."
         - "Sur 612 M€/an de gains pour les locataires, les pertes atteignent 181 M€/an : 118 M€ à Paris, 14 M€ en petite couronne et 49 M€ hors Île-de-France (Mission Fack-Chapelle, 2026, p. 61)."

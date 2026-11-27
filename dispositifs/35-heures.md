@@ -1,6 +1,6 @@
 ---
 titre: "Les 35 heures (lois Aubry)"
-resume: "Les 35 heures ont un bilan limité : 350 000 emplois créés sur 1998-2002 selon l'enquête parlementaire, mais une baisse effective du temps de travail de moitié inférieure à 10 %. Sans cible d'emploi votée, le suivi dédié a cessé après 2004-2005, pour 12,8 Md€ de surcoût brut en 2013."
+resume: "Les 35 heures affichent un bilan contrasté : 350 000 emplois créés sur 1998-2002 (effet débattu à long terme), mais une baisse effective de durée limitée à 5 %. Sans cible d'emploi votée, le suivi a cessé après 2004-2005. Le surcoût brut atteint 12,8 Md€ en 2013 (coût net débattu)."
 theme: travail
 instrument: regle
 statut: en_vigueur
@@ -89,8 +89,8 @@ effets:
       url: "https://www.assemblee-nationale.fr/12/rap-info/i1544-T1.asp"
     - *an2436
   effet:
-    note: atteint
-    constat: "350 000 emplois nets créés sur 1998-2002 selon la dernière enquête parlementaire, mais effet débattu à long terme."
+    note: limite
+    constat: "350 000 emplois créés sur 1998-2002 avec aides et modération salariale, mais effet débattu et non mesuré depuis."
     points:
     - "Commission d'enquête (2014) : « Les lois Aubry, de réduction du temps de travail à 35 heures par semaine ou 1 600 heures par an, ont créé 350 000 emplois et ainsi contribué à réduire le chômage. »"
     - "Ce chiffre reprend la synthèse Dares-Insee (Gubian et al., 2004 ; OFCE : 320 000) ; il est moitié moindre que les 700 000 attendus et associe RTT, allègements de cotisations et modération salariale."
@@ -322,7 +322,7 @@ effets:
     - *an2436
     - *bozio2024
   effet:
-    constat: "12,8 Md€ de surcoût brut estimé en 2013 sur les allègements ; le coût net après retours reste débattu."
+    constat: "12,8 Md€ de surcoût brut extrapolé en 2013 après déconnexion ; le coût net après retours reste débattu."
     points:
     - "Le surcoût brut estimé passe de 0,5 Md€ en 1999 à 7,7 Md€ en 2002 (AN n° 1544, p. 91), puis de 5,1 Md€ en 2003 à 12,8 Md€ en 2013 en scénario conventionnel (direction du Budget, AN n° 2436)."
     - "Sur 10,5 Md€ bruts en 2002, l'OFCE estime un coût net de 2,5 Md€ par an pour les administrations publiques après retours fiscaux, sociaux et baisse du chômage (cité par AN n° 2436, 2014)."

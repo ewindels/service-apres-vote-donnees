@@ -1,6 +1,6 @@
 ---
 titre: "TVA à 10 % dans la restauration"
-resume: "La TVA réduite dans la restauration n'a pas atteint l'effet visé sur l'emploi et reste limitée sur les prix, profitant surtout aux marges. Les cibles du Contrat d'avenir de 2009 n'ont pas été tenues et le suivi s'est arrêté après 2011. Le coût public dépasserait 4,4 Md€ en 2024."
+resume: "La TVA réduite dans la restauration n'a pas atteint l'effet visé sur l'emploi et reste limitée sur les prix (marges et salaires absorbant l'essentiel). Les cibles de 2009 n'ont pas été tenues et le suivi a cessé après 2011. Le coût statique dépasserait 4,4 Md€ en 2024."
 theme: travail
 instrument: depense_fiscale
 rattachement:
@@ -148,7 +148,7 @@ effets:
           url: "https://www.ccomptes.fr/sites/default/files/EzPublish/20151216-rapport-Thirot-Herody-TVA-comme-instrument-politique-eco.pdf"
     effet:
       note: limite
-      constat: "Seul un cinquième de la baisse de TVA est allé aux clients, tandis que plus de 40 % ont accru les marges."
+      constat: "Seul un cinquième de la baisse est allé aux prix, contre plus de 40 % aux marges et environ un quart aux salaires."
       points:
         - "L'IGF conclut que « l'objectif de baisse des prix n'a été atteint que partiellement », avec 20 % transmis entre juillet 2009 et décembre 2011, soit -2,4 % (Insee, cité IGF, 2024, Annexe III, p. 16)."
         - "L'avantage fiscal de 3,11 Md€ en 2012 a profité à 46 % aux marges des restaurateurs, 29 % aux salaires, 20 % aux prix et 5 % à l'emploi (CPO, 2015, p. 175)."
@@ -215,7 +215,7 @@ effets:
         - label: "DGFiP, PLF 2027, Voies et moyens, t. II, p. 159 (dépense 730602)"
           url: "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2027"
     effet:
-      constat: "Le coût a atteint 3,6 Md€ en 2021 malgré le passage à 10 %, dépassant le coût initial prévu pour le taux à 5,5 %."
+      constat: "Le coût statique atteint 3,6 Md€ en 2021 malgré le passage à 10 %, dépassant la cible initiale prévue à 5,5 %."
       points:
         - "De 1 275 M€ sur six mois en 2009, le manque à gagner total a atteint 3 300 M€ en 2011, reculé à 2 290 M€ en 2014 après le passage à 10 %, puis grimpé à 3 605 M€ en 2021 (DGFiP, VM2)."
         - "Ajusté de l'inflation, le plafond initial de 3 Md€ de 2010 correspondait à environ 3,4 Md€ en 2021, seuil dépassé dès 2021 alors que l'écart de taux avait été réduit de 14,1 à 10 points (DGFiP, VM2)."

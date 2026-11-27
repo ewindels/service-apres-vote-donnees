@@ -1,10 +1,10 @@
 ---
 titre: "Revenu de solidarité active (RSA) et réforme de 2024"
-resume: "Le retour à l'emploi des allocataires du RSA n'est pas atteint, y compris lors de l'expérimentation des 15 heures d'activité. L'État n'a fixé aucune cible chiffrée et a laissé l'évaluation s'interrompre onze ans. Le coût dépasse la prévision initiale, avec un tiers de non-recours."
+resume: "Le RSA a un effet limité sur la pauvreté (il en réduit l'intensité sans en faire sortir) et un retour à l'emploi non atteint. L'État n'a plus de cible chiffrée et a interrompu l'évaluation dédiée après trois ans. Il coûte 12,22 Md€ d'allocations en 2023, avec un tiers de non-recours."
 theme: solidarites
 instrument: depense_budgetaire
 statut: en_vigueur
-date_maj: 2026-11-24
+date_maj: 2026-11-27
 methode: "1.0"
 
 origine:
@@ -40,6 +40,53 @@ historique:
     structurante: true
 
 effets:
+  - libelle: "Réduction de la pauvreté"
+    role: recherche
+    nature: comportement
+    indicateur: "Baisse de l'intensité de la pauvreté due aux minima sociaux (seuil 60 %)"
+    unite: "points"
+    engagement:
+      note: sans_chiffre
+      constat: "Un objectif national de réduction d'un tiers en cinq ans a expiré en 2012 ; aucune cible chiffrée depuis."
+      points:
+        - "En 2008, l'exposé des motifs vise à « réduire d’un tiers la pauvreté d’ici à 2012 », objectif macroéconomique qui dépasse le seul RSA et n'a pas été renouvelé (PL n° 1100, 2008)."
+        - "La loi assigne au RSA d'« assurer à ses bénéficiaires des moyens convenables d’existence » sans fixer de seuil chiffré (art. L. 262-1 du CASF ; PL n° 1100, 2008)."
+        - "En 2016, la lutte contre la pauvreté des travailleurs est transférée à la prime d'activité, recentrant le RSA sur le seul socle (Cour des comptes, 2022, p. 40)."
+        - "En 2023, l'étude d'impact plein emploi rappelle son rôle de « dernier filet de sécurité » sans fixer de cible sur la pauvreté (EI PJL 710, 2023)."
+      sources:
+        - { label: "Projet de loi n° 1100, exposé des motifs, 2008", url: "https://www.assemblee-nationale.fr/13/projets/pl1100.asp" }
+        - { label: "Rapport AN n° 1113 (M.-P. Daubresse), 2008", url: "https://www.assemblee-nationale.fr/13/rapports/r1113.asp" }
+        - { label: "Cour des comptes, Le revenu de solidarité active, janv. 2022, p. 40", url: "https://www.ccomptes.fr/fr/publications/le-revenu-de-solidarite-active-rsa" }
+        - { label: "Étude d'impact du PJL plein emploi n° 710, juin 2023", url: "https://www.senat.fr/leg/etudes-impact/pjl22-710-ei/pjl22-710-ei.html" }
+    mesure:
+      note: interrompue
+      constat: "L'évaluation dédiée s'est arrêtée après trois ans ; le suivi annuel regroupe tous les minima sans isoler le RSA."
+      points:
+        - "Le comité créé par la loi de 2008 a mesuré l'impact propre du RSA sur la pauvreté jusqu'en 2011, puis a cessé sans être remplacé (CNE RSA, 2011, pp. 15–16, 23)."
+        - "La DREES suit chaque année l'effet redistributif des minima sociaux (ERFS, dernier exercice 2022), mais sans isoler le RSA de l'AAH et de l'Aspa (DREES, 2025, pp. 41–44)."
+        - "L'enquête spécifique mesurant le niveau de vie et la pauvreté des seuls allocataires du RSA (enquête BMS) n'a pas été actualisée depuis 2018 (DREES, 2025, pp. 101–104)."
+        - "La Cour des comptes a réévalué l'impact propre du RSA sur la grande pauvreté en 2022, en signalant que les aides locales restent mal recensées (Cour des comptes, 2022, pp. 17–18)."
+      sources:
+        - { label: "Comité national d'évaluation du RSA, rapport final, déc. 2011, pp. 15–16, 23, 65–67", url: "https://dares.travail-emploi.gouv.fr/publication/rapport-final-du-comite-national-devaluation-du-revenu-de-solidarite-active-rsa" }
+        - { label: "DREES, Minima sociaux et prestations de solidarité, 2025, Fiches 03, 08 et 10, pp. 41–44, 86, 101–104", url: "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/panoramas-de-la-drees/251204-minima-sociaux-et-prestations-de-solidarite" }
+        - { label: "Cour des comptes, Le revenu de solidarité active, janv. 2022, pp. 17–18, 75", url: "https://www.ccomptes.fr/fr/publications/le-revenu-de-solidarite-active-rsa" }
+    effet:
+      note: limite
+      constat: "Le RSA ne fait pas sortir de la pauvreté monétaire mais réduit nettement son intensité et limite la grande pauvreté."
+      points:
+        - "Le RSA ne permet pas de franchir le seuil de pauvreté, mais permet de « réduire nettement son intensité et il protège efficacement contre la très grande pauvreté » (CComptes, 2022, p. 18)."
+        - "Il assure 35 % à 40 % de la baisse de l'intensité de la pauvreté aux seuils de 40 % et 50 % ; seuls 16 % des allocataires vivent sous le seuil à 40 % (Cour des comptes, 2022, pp. 17–18)."
+        - "Mais 75 % des membres de ménages au RSA restent sous le seuil à 60 % (niveau de vie médian de 860 € en 2018), le montant socle valant 46,5 % de ce seuil en 2023 (DREES, 2025, pp. 86, 101)."
+        - "Ensemble, les minima sociaux (RSA, AAH, Aspa) réduisent le taux de pauvreté de 1,7 point et son intensité de 6,0 points en 2022 (DREES, 2025, p. 44)."
+      sources:
+        - { label: "Cour des comptes, Le revenu de solidarité active, janv. 2022, pp. 17–18, 75", url: "https://www.ccomptes.fr/fr/publications/le-revenu-de-solidarite-active-rsa" }
+        - { label: "DREES, Minima sociaux et prestations de solidarité, 2025, Fiches 03, 08 et 10, pp. 41–44, 86, 101–104", url: "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/panoramas-de-la-drees/251204-minima-sociaux-et-prestations-de-solidarite" }
+        - { label: "Comité national d'évaluation du RSA, rapport final, déc. 2011, pp. 15–16, 23", url: "https://dares.travail-emploi.gouv.fr/publication/rapport-final-du-comite-national-devaluation-du-revenu-de-solidarite-active-rsa" }
+    serie:
+      trous: non_publies
+      points:
+        - { annee: 2022, valeur: 6.0, producteur: contexte, source: "DREES, Minima sociaux, 2025, Fiche 03, p. 44 (ERFS 2022 ; ensemble des minima sociaux : RSA, AAH, Aspa, hors isolement du RSA)" }
+
   - libelle: "Retour à l'emploi"
     role: recherche
     nature: comportement
@@ -72,7 +119,7 @@ effets:
         - { label: "Comité scientifique loi plein emploi, rapport intermédiaire, déc. 2025, pp. 85–88", url: "https://dares.travail-emploi.gouv.fr/publication/rapport-intermediaire-du-comite-scientifique-devaluation-de-la-loi-pour-le-plein-emploi" }
     effet:
       note: non_atteint
-      constat: "L'insertion est jugée principal échec du RSA ; l'expérimentation des 15 heures a un effet net potentiellement nul."
+      constat: "L'insertion est jugée principal échec du RSA ; l'essai des 15 h (hors sanctions) a un effet net potentiellement nul."
       points:
         - "La Cour juge qu'« il s’agit là du principal échec du dispositif : l’accompagnement est faible, la contractualisation rare et souvent de pure forme » (Cour des comptes, 2022, p. 151)."
         - "Seuls 34 % d'une cohorte sortent en emploi en sept ans (dont un tiers durablement) et 41 % des sortants reviennent au RSA ; 14 % sortent en emploi sur un an (CComptes, p. 106 ; DREES, p. 187)."
@@ -94,12 +141,12 @@ effets:
     indicateur: "Dépenses annuelles d'allocations du RSA (prime de Noël incluse)"
     unite: "€"
     engagement:
-      note: chiffre
+      note: sans_chiffre
       cibles:
         sens: au_plus
         periodes:
-          - { debut: 2009, annee_ref: 2008, valeur: 6500000000, source: "Avis Sénat n° 32, 2008 (d'après le Haut-Commissariat aux solidarités actives, RSA de base)" }
-      constat: "Le RSA socle était estimé à 6,5 Md€ par an à sa création ; la réforme plein emploi n'a chiffré aucune économie."
+          - { debut: 2009, fin: 2015, annee_ref: 2008, valeur: 6500000000, source: "Avis Sénat n° 32, 2008 (d'après le Haut-Commissariat aux solidarités actives, RSA de base)" }
+      constat: "Estimation ponctuelle de 6,5 Md€ en 2008 sans plafond pérenne ; la réforme plein emploi n'a chiffré aucune économie."
       points:
         - "Le Haut-Commissariat évaluait le RSA de base à environ 6,5 Md€ et le RSA activité à 3,25 Md€ (soit 9,75 Md€ au total ; avis Sénat n° 32, 2008)."
         - "En 2016, le RSA activité a été transféré vers la prime d'activité, laissant le RSA sur le seul périmètre du RSA socle (Cour des comptes, 2022, p. 46)."
@@ -121,7 +168,7 @@ effets:
         - { label: "DREES, Minima sociaux et prestations de solidarité, 2025, Fiche 07 et données Excel, pp. 78–82", url: "https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/panoramas-de-la-drees/251204-minima-sociaux-et-prestations-de-solidarite" }
         - { label: "Cour des comptes, Le revenu de solidarité active, janv. 2022, pp. 46–47, 160–161", url: "https://www.ccomptes.fr/fr/publications/le-revenu-de-solidarite-active-rsa" }
     effet:
-      constat: "12,22 Md€ d'allocations en 2023, nettement au-dessus des 6,5 Md€ annoncés en 2008 même corrigés de l'inflation."
+      constat: "12,22 Md€ d'allocations en 2023 (0,4 % du PIB), en recul en euros constants depuis le pic Covid de 2020."
       points:
         - "Les allocations atteignent 12 218 M€ en 2023 (0,4 % du PIB, 549 € par mois et par allocataire), soit 38,6 % des minima sociaux (DREES, 2025, p. 78)."
         - "En euros constants 2023, la dépense a culminé à 14,24 Md€ en 2020 avec la crise sanitaire, avant de reculer de 5,0 % en 2021, 7,3 % en 2022 et 2,6 % en 2023 (DREES, 2025, pp. 80–81)."

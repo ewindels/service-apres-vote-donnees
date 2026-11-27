@@ -1,6 +1,6 @@
 ---
 titre: "Pacte Dutreil (transmission d'entreprises)"
-resume: "Le Pacte Dutreil n'atteint pas son objectif sur l'investissement et l'emploi, même s'il favorise le maintien du contrôle familial. L'État n'avait fixé aucune cible chiffrée et ne l'a jamais évalué en vingt ans. Son coût officiel a bondi à 5 Md€ en 2024 et 3,8 Md€ en 2025."
+resume: "Le Pacte Dutreil n'atteint pas son objectif sur l'investissement et l'emploi, même s'il favorise le maintien du contrôle familial. L'État n'avait fixé aucune cible chiffrée et ne l'a jamais évalué en vingt ans. Son coût statique officiel atteint 5 Md€ en 2024 puis 3,8 Md€ en 2025."
 theme: entreprises
 instrument: depense_fiscale
 rattachement:
@@ -190,7 +190,7 @@ effets:
         - label: "Conseil d'analyse économique, Repenser l'héritage, note n° 69, décembre 2021, p. 5"
           url: "https://cae-eco.fr/static/pdf/cae-note069.pdf"
     effet:
-      constat: "Le coût atteint 3,8 Md€ en 2025 après un pic à 5 Md€ en 2024, faisant du pacte la quatrième niche fiscale de l'État."
+      constat: "Coût statique officiel de 3,8 Md€ en 2025 (pic à 5 Md€ en 2024), quatrième niche fiscale de l'État."
       points:
         - "La Cour des comptes et l'IPP reconstituent une hausse rapide du coût réel : 1,2 Md€ en 2020, 2,0 Md€ en 2022, 3,3 Md€ en 2023 et 5,5 Md€ en 2024 (Cour des comptes, 2025, p. 11, 56)."
         - "L'annexe budgétaire la plus récente chiffre l'exécution à 5,0 Md€ en 2024 puis 3,8 Md€ en 2025, avec une prévision de 3,8 Md€ en 2026 et 2027 (PLF 2026 et 2027, Voies et moyens, t. II, p. 18, 134)."

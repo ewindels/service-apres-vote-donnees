@@ -1,6 +1,6 @@
 ---
 titre: "Droits de succession"
-resume: "Les droits de succession rapportent 16,1 Md€ en 2025 (1er rang OCDE), mesurés sans cible pluriannuelle. Les recettes sont suivies chaque année, mais les enquêtes détaillées ont cessé après 2010. Le contournement par les niches est avéré (~10 % payés au sommet)."
+resume: "Les droits de succession rapportent 16,1 Md€ en 2025 (1er rang OCDE), mesurés sans cible pluriannuelle. Les recettes sont suivies chaque année, mais les enquêtes détaillées ont cessé après 2010. Les régimes dérogatoires réduisent fortement le taux effectif au sommet (~10 % payés)."
 theme: financement
 instrument: prelevement
 statut: en_vigueur
@@ -111,7 +111,7 @@ effets:
         - { annee: 2024, valeur: 16000000000, producteur: etat, source: "PLF 2026, Voies et moyens, t. I, p. 33 (ligne 1706)" }
         - { annee: 2025, valeur: 16100000000, producteur: etat, source: "PLF 2027, Voies et moyens, t. I, p. 40 (ligne 1706)" }
 
-  - libelle: "Contournement et érosion d'assiette"
+  - libelle: "Érosion d'assiette par les niches"
     role: secondaire
     nature: comportement
     indicateur: "Écart entre taux sur héritage déclaré et économique (top 0,01 %)"
@@ -144,7 +144,7 @@ effets:
         - { label: "CAE, Note n° 69, Repenser l'héritage, déc. 2021, p. 5-7", url: "https://www.cae-eco.fr/static/pdf/cae-note069s.pdf" }
     effet:
       note: avere
-      constat: "Le mitage par les niches fait chuter le taux effectif des très gros héritages bien sous le barème."
+      constat: "Les régimes dérogatoires font chuter le taux effectif des très gros héritages bien sous le barème légal."
       points:
         - "35 à 40 % des flux économiques transmis échappent aux déclarations fiscales ; l'écart de taux atteint 20 points au top 0,01 % (CAE, 2021, p. 5 ; CPO, 2025, p. 85-86)."
         - "Le top 0,1 % (~13 M€ reçus) « ne paie qu’à peine 10 % de droits de succession » sur son patrimoine hérité, loin du taux marginal légal de 45 % (CAE, 2021, p. 6)."

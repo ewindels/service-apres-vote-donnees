@@ -1,6 +1,6 @@
 ---
 titre: "Zéro artificialisation nette (ZAN)"
-resume: "Trop tôt pour conclure sur le ZAN : la cible court jusqu'en 2031 et les plans locaux restent à réviser. L'État a chiffré l'objectif (-50 %), mais son suivi et ses rapports légaux sont tardifs. Le surcoût du renouvellement urbain est avéré (800 M€/an en scénario central)."
+resume: "Trop tôt pour conclure sur le ZAN : la cible court jusqu'en 2031 et les plans locaux restent à réviser. L'État a chiffré l'objectif (-50 %), mais son suivi et ses rapports légaux sont tardifs. Le déficit brut des opérations de renouvellement est estimé à 800 M€/an (scénario central)."
 theme: environnement
 instrument: regle
 statut: en_vigueur
@@ -122,7 +122,7 @@ effets:
         - { label: "IGF et IGEDD, Conséquences de la sobriété foncière sur l'économie de l'aménagement, juil. 2025, p. 5-7", url: "https://www.vie-publique.fr/rapport/299696-evaluation-des-consequences-de-la-sobriete-fonciere-sur-leconomie-de" }
     effet:
       note: avere
-      constat: "Surcoût avéré : les opérations en renouvellement sont déficitaires, estimées à 800 M€/an en scénario central."
+      constat: "Surcoût avéré : déficit financier brut d'aménagement estimé à 800 M€/an en scénario central (0 à 3,4 Md€)."
       points:
         - "Les opérations de renouvellement urbain affichent un déficit moyen d'environ 750 k€/ha, couvert par des subventions publiques à hauteur de près de 30 % des recettes (IGF-IGEDD, 2025, p. 5)."
         - "Le surcoût de l'effort supplémentaire jusqu'en 2031 est estimé entre 0 et 3,4 Md€/an selon la densification, et à environ 800 M€/an en scénario central (IGF-IGEDD, 2025, p. 5-6)."

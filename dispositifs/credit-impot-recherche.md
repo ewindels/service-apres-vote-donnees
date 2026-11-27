@@ -1,6 +1,6 @@
 ---
 titre: "Crédit d'impôt recherche (CIR)"
-resume: "Le crédit d'impôt recherche n'a qu'un effet limité sur la recherche privée et l'attractivité, pour un coût près de trois fois supérieur à celui annoncé en 2008. L'État ne s'est fixé aucune cible chiffrée sur la recherche et a attendu six ans après la réforme pour organiser son évaluation."
+resume: "Le CIR a un effet limité au global (positif sur les PME, non significatif sur les grandes firmes), pour un coût brut près de trois fois supérieur à 2008. L'État n'a fixé aucune cible de recherche et a attendu six ans après la réforme pour organiser son évaluation."
 theme: education-recherche
 instrument: depense_fiscale
 rattachement:
@@ -566,7 +566,7 @@ effets:
     - *cnepi2021
     - *cdc2013
   effet:
-    constat: "7,85 Md€ de créance déclarée en 2023, près du triple de la cible."
+    constat: "7,85 Md€ de créance brute déclarée en 2023 (coût statique), près du triple de la cible."
     points:
     - "Dès 2008, la créance bondit à 4,45 Md€, soit déjà 65 % au-dessus de la cible de 2,7 Md€ ; les budgets l'ont sous-estimée d'environ 1 Md€ par an jusqu'en 2012 (Cour des comptes, 2013, p. 29)."
     - "Première dépense fiscale de l'État depuis 2022 (7,80 Md€ en 2024 hors innovation, Voies et moyens 2026, p. 25 et 106) et dispositif le plus généreux de l'OCDE en part du PIB (CNEPI, 2021, p. 10)."

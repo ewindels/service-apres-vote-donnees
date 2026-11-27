@@ -1,6 +1,6 @@
 ---
 titre: "Exonération des heures supplémentaires"
-resume: "L'exonération des heures supplémentaires a un effet nul sur le volume réellement travaillé, malgré une hausse des heures déclarées. Rétablie sans objectif chiffré ni évaluation prévue, elle coûte plus de 5 milliards d'euros par an et risque de freiner l'embauche."
+resume: "L'exonération des heures supplémentaires a un effet nul sur le temps réellement travaillé, tout en soutenant le revenu net des bénéficiaires. Rétablie sans cible ni évaluation prévue, son coût brut dépasse 5 Md€/an, avec un effet emploi nul à négatif en basse conjoncture."
 theme: travail
 instrument: depense_fiscale
 rattachement:
@@ -182,7 +182,7 @@ effets:
         - label: "Cour des comptes, Sécurité sociale 2024, mai 2024, p. 179"
           url: "https://www.ccomptes.fr/fr/publications/securite-sociale-2024"
     effet:
-      constat: "Le coût atteint 5,11 Md€ en 2025 sur le champ privé et IR (5,40 Md€ tous régimes), au-dessus de l'annonce actualisée."
+      constat: "Coût brut de 5,11 Md€ en 2025 sur le privé et l'IR (5,40 Md€ tous régimes), au-dessus de l'annonce actualisée."
       points:
         - "Sur le périmètre secteur privé et IR, le coût passe de 3,20 Md€ en 2019 à 5,11 Md€ en 2025 (2,21 Md€ d'IR, 2,10 Md€ de cotisations salariales et 0,79 Md€ de déduction patronale) (Urssaf ; DGFiP)."
         - "Tous régimes confondus, la part salariale atteint 2,35 Md€ et la part patronale 0,83 Md€ en 2025 (5,40 Md€ avec l'IR) ; l'extension 2026 ajoute ~130 M€ (CCSS, 2026, p. 69)."
