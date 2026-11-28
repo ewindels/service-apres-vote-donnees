@@ -1,0 +1,34 @@
+{
+  "title": "Service après-vote — Audit des dispositifs publics français",
+  "description": "Base de données ouverte du projet indépendant Service après-vote (https://service-apres-vote.fr) : fiches d'audit des politiques publiques françaises (niches fiscales, subventions, taxes comportementales, aides sociales, régulations), évaluées sur trois axes (engagement initial, suivi statistique par l'État, effets mesurés et coûts budgétaires) exclusivement à partir de sources primaires vérifiables.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "etalab-2.0",
+  "language": "fra",
+  "creators": [
+    {
+      "name": "Windels, Étienne"
+    }
+  ],
+  "keywords": [
+    "politiques publiques",
+    "évaluation",
+    "finances publiques",
+    "niches fiscales",
+    "budget",
+    "France",
+    "données ouvertes"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://service-apres-vote.fr",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://service-apres-vote.fr/methodologie",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ]
+}

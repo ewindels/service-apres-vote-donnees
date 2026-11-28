@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ces données ou ces fiches, merci de les citer comme suit."
+type: dataset
+title: "Service après-vote — Audit des dispositifs publics français"
+abstract: >-
+  Base de données ouverte du projet indépendant Service après-vote :
+  fiches d'audit des politiques publiques françaises (engagements initiaux,
+  suivi statistique par l'État, effets mesurés et coûts budgétaires),
+  sourcées exclusivement sur documents primaires.
+authors:
+  - family-names: "Windels"
+    given-names: "Étienne"
+url: "https://service-apres-vote.fr"
+repository-code: "https://github.com/ewindels/service-apres-vote-donnees"
+license: "etalab-2.0"
+keywords:
+  - politiques publiques
+  - évaluation
+  - finances publiques
+  - niches fiscales
+  - budget
+  - France
+  - données ouvertes
