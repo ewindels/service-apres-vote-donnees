@@ -49,7 +49,7 @@ effets:
   - libelle: "Entrées en apprentissage"
     role: recherche
     nature: comportement
-    indicateur: "Nouveaux contrats d'apprentissage conclus, par an"
+    indicateur: "Nouveaux contrats d'apprentissage conclus"
     unite: "contrats"
     engagement:
       note: chiffre

@@ -45,7 +45,7 @@ effets:
   - libelle: "Participation aux séjours"
     role: recherche
     nature: comportement
-    indicateur: "Jeunes accueillis en séjour de cohésion, par an"
+    indicateur: "Jeunes accueillis en séjour de cohésion"
     unite: "jeunes"
     engagement:
       note: chiffre
@@ -149,7 +149,7 @@ effets:
   - libelle: "Coût pour le budget de l'État"
     role: budget
     nature: cout
-    indicateur: "Crédits consommés du programme 163 dédiés au SNU, par an"
+    indicateur: "Crédits consommés du programme 163 dédiés au SNU"
     unite: "€"
     engagement:
       note: sans_chiffre

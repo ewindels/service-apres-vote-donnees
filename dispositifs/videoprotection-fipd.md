@@ -117,7 +117,7 @@ effets:
   - libelle: "Coût pour l'État (FIPD)"
     role: budget
     nature: cout
-    indicateur: "Crédits de paiement exécutés pour la vidéoprotection (FIPD), par an"
+    indicateur: "Crédits de paiement exécutés pour la vidéoprotection (FIPD)"
     unite: "€"
     engagement:
       note: chiffre

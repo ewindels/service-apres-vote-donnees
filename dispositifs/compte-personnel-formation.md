@@ -45,7 +45,7 @@ effets:
   - libelle: "Accès à la formation"
     role: recherche
     nature: comportement
-    indicateur: "Entrées en formation financées par le CPF par an"
+    indicateur: "Entrées en formation financées par le CPF"
     unite: "entrées"
     engagement:
       note: sans_chiffre

@@ -51,7 +51,7 @@ effets:
   - libelle: "Dons aux associations"
     role: recherche
     nature: comportement
-    indicateur: "Montant des dons déclarés aux associations et fondations, par an"
+    indicateur: "Montant des dons déclarés aux associations et fondations"
     unite: "€"
     engagement:
       note: sans_chiffre

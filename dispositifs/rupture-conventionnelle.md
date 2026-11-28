@@ -46,7 +46,7 @@ effets:
   - libelle: "Contentieux prud'homal"
     role: recherche
     nature: comportement
-    indicateur: "Demandes nouvelles devant les conseils de prud'hommes, par an"
+    indicateur: "Demandes nouvelles devant les conseils de prud'hommes"
     unite: "demandes"
     engagement:
       note: sans_chiffre
@@ -133,7 +133,7 @@ effets:
   - libelle: "Coût pour l'Assurance chômage"
     role: budget
     nature: cout
-    indicateur: "Dépenses d'allocations chômage liées aux ruptures conventionnelles, par an"
+    indicateur: "Dépenses d'allocations chômage liées aux ruptures conventionnelles"
     unite: "€"
     engagement:
       note: ignore

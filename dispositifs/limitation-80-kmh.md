@@ -42,7 +42,7 @@ effets:
   - libelle: "Mortalité sur les routes secondaires"
     role: recherche
     nature: comportement
-    indicateur: "Tués par an hors agglomération et hors autoroutes (métropole)"
+    indicateur: "Tués hors agglomération et hors autoroutes (métropole)"
     unite: "tués"
     engagement:
       note: chiffre

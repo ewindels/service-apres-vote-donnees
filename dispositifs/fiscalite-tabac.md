@@ -142,7 +142,7 @@ effets:
 - libelle: Recettes
   role: budget
   nature: recettes
-  indicateur: "Recettes des droits de consommation sur les tabacs, par an"
+  indicateur: "Recettes des droits de consommation sur les tabacs"
   unite: €
   engagement:
     note: sans_chiffre

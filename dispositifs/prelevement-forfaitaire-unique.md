@@ -95,7 +95,7 @@ effets:
 - libelle: "Recettes (part impôt sur le revenu)"
   role: budget
   nature: recettes
-  indicateur: "Acompte PFU prélevé à la source sur dividendes et intérêts (12,8 % IR), par an"
+  indicateur: "Acompte PFU prélevé à la source sur dividendes et intérêts (12,8 % IR)"
   unite: €
   engagement:
     note: chiffre
@@ -201,7 +201,7 @@ effets:
 - libelle: "Versement de dividendes"
   role: secondaire
   nature: comportement
-  indicateur: "Dividendes déclarés par les ménages (soumis à l'IR ou au PFU), par an"
+  indicateur: "Dividendes déclarés par les ménages (soumis à l'IR ou au PFU)"
   unite: €
   engagement:
     note: ignore

@@ -50,7 +50,7 @@ effets:
 - libelle: "Offre de logements locatifs"
   role: recherche
   nature: comportement
-  indicateur: "Logements locatifs intermédiaires construits ou rénovés, par an"
+  indicateur: "Logements locatifs intermédiaires construits ou rénovés"
   unite: "logements"
   engagement:
     note: sans_chiffre
@@ -201,7 +201,7 @@ effets:
 - libelle: "Coût pour l'État"
   role: budget
   nature: cout
-  indicateur: "Réduction d'impôt sur le revenu (Duflot et Pinel), par an"
+  indicateur: "Réduction d'impôt sur le revenu (Duflot et Pinel)"
   unite: €
   engagement:
     note: sans_chiffre

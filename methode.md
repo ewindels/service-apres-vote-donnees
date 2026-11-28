@@ -194,7 +194,7 @@ Comme les comptes d'une entreprise cotée couvrent chaque trimestre, **chaque li
 * **État vide temporel (aucune donnée) :** réservé aux seuls cas où il n'existe ni mesure chiffrée de l'indicateur, ni cible, ni estimation réaliste. La carte affiche alors tout de même le cadre graphique temporel (axe des années depuis l'entrée en vigueur jusqu'à la dernière année écoulée, repères des réformes structurantes, bande de couverture 100 % hachurée), avec un message neutre et factuel en gris (« Jamais mesuré depuis [année] » si `mesure: aucune`, ou « Aucune série annuelle publiée depuis [année] » sinon). L'axe « Mesure : Aucune » porte déjà le rouge ; le graphique respecte la grammaire couleur (gris = non mesuré).
 
 **Ce que tout graphique affiche**, pour se lire sans aide :
-* **un titre** : l'indicateur et son unité (« Recettes de la taxe, par an, en euros ») ;
+* **un titre** : l'indicateur, sans « par an » ni « annuel » puisque tous les graphiques sont annuels (« Recettes de la taxe ») ; l'unité va sur les graduations quand elle est courte (« 10 Md€ », « 12 % »), et dans le titre sinon, ou sur mobile où la place manque (« en milliards d'euros ») ;
 * **un axe des valeurs** : trois graduations rondes depuis zéro, avec de l'air au-dessus du maximum ;
 * **un axe des années** : la première, la dernière, et les années rondes entre les deux ;
 * **une bande de couverture** sous l'axe : une case par année, pleine s'il existe un chiffre, hachurée sinon. Elle dit d'un coup d'œil combien d'années manquent, sans charger le tracé ;

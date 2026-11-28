@@ -81,7 +81,7 @@ effets:
   - libelle: "Coût pour les finances publiques"
     role: budget
     nature: cout
-    indicateur: "Manque à gagner en impôt sur le revenu, par an"
+    indicateur: "Manque à gagner en impôt sur le revenu"
     unite: "€"
     engagement:
       note: ignore

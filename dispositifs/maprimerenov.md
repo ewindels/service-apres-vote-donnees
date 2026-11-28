@@ -116,7 +116,7 @@ effets:
   - libelle: "Coût pour les finances publiques"
     role: budget
     nature: cout
-    indicateur: "Aides MaPrimeRénov' accordées par l'Anah (tous volets), par an"
+    indicateur: "Aides MaPrimeRénov' accordées par l'Anah (tous volets)"
     unite: "€"
     engagement:
       note: sans_chiffre
@@ -180,7 +180,7 @@ effets:
   - libelle: "Fraudes et malfaçons"
     role: secondaire
     nature: comportement
-    indicateur: "Montant de fraude détectée et bloquée par l'Anah, par an"
+    indicateur: "Montant de fraude détectée et bloquée par l'Anah"
     unite: "€"
     engagement:
       note: sans_chiffre

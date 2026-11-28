@@ -520,7 +520,7 @@ effets:
 - libelle: "Coût pour l'État"
   role: budget
   nature: cout
-  indicateur: "Créance déclarée de CIR (recherche, innovation et collection), par an"
+  indicateur: "Créance déclarée de CIR (recherche, innovation et collection)"
   unite: €
   engagement:
     note: chiffre

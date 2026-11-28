@@ -85,7 +85,7 @@ effets:
   - libelle: "Atténuation des dépenses maladie"
     role: budget
     nature: recettes
-    indicateur: "Montants constatés au régime général, par an"
+    indicateur: "Montants constatés au régime général"
     unite: "€"
     engagement:
       note: sans_chiffre

@@ -89,7 +89,7 @@ effets:
   - libelle: "Allègement de la charge judiciaire"
     role: recherche
     nature: comportement
-    indicateur: "Nombre d'amendes forfaitaires délictuelles stupéfiants relevées par an"
+    indicateur: "Nombre d'amendes forfaitaires délictuelles stupéfiants relevées"
     unite: "AFD"
     engagement:
       note: sans_chiffre
@@ -136,7 +136,7 @@ effets:
   - libelle: "Recettes et recouvrement"
     role: budget
     nature: recettes
-    indicateur: "Recettes encaissées au titre des amendes stupéfiants, par an"
+    indicateur: "Recettes encaissées au titre des amendes stupéfiants"
     unite: "€"
     engagement:
       note: sans_chiffre

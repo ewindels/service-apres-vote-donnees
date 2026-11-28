@@ -135,7 +135,7 @@ effets:
 - libelle: Recettes
   role: budget
   nature: recettes
-  indicateur: "Recettes des taxes sur les alcools affectées à la sécurité sociale, par an"
+  indicateur: "Recettes des taxes sur les alcools affectées à la sécurité sociale"
   unite: "€"
   engagement:
     note: sans_chiffre

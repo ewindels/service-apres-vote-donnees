@@ -44,7 +44,7 @@ effets:
   - libelle: "Emploi dans la restauration"
     role: recherche
     nature: comportement
-    indicateur: "Emplois supplémentaires créés par an dans la restauration"
+    indicateur: "Emplois supplémentaires créés dans la restauration"
     unite: "emplois/an"
     engagement:
       note: sans_chiffre

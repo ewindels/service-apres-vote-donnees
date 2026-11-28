@@ -126,7 +126,7 @@ effets:
   - libelle: "Coût pour les finances publiques"
     role: budget
     nature: cout
-    indicateur: "Crédits exécutés pour le bonus écologique, par an"
+    indicateur: "Crédits exécutés pour le bonus écologique"
     unite: "€"
     engagement:
       note: sans_chiffre

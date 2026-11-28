@@ -112,7 +112,7 @@ effets:
 - libelle: Recettes
   role: budget
   nature: recettes
-  indicateur: "Recettes de la taxe, sucres et édulcorants, par an"
+  indicateur: "Recettes de la taxe, sucres et édulcorants"
   unite: €
   engagement:
     note: chiffre

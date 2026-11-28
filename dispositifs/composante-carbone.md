@@ -176,7 +176,7 @@ effets:
 - libelle: "Recettes"
   role: budget
   nature: recettes
-  indicateur: "Recettes de la composante carbone des accises sur les énergies, par an"
+  indicateur: "Recettes de la composante carbone des accises sur les énergies"
   unite: €
   engagement:
     note: chiffre

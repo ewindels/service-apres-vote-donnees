@@ -178,7 +178,7 @@ effets:
 - libelle: "Expatriation fiscale"
   role: secondaire
   nature: comportement
-  indicateur: "Solde migratoire (retours − départs) des redevables ISF puis IFI, par an"
+  indicateur: "Solde migratoire (retours − départs) des redevables ISF puis IFI"
   unite: "foyers"
   engagement:
     note: sans_chiffre

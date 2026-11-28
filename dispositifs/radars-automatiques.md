@@ -51,7 +51,7 @@ effets:
   - libelle: "Mortalité routière"
     role: recherche
     nature: comportement
-    indicateur: "Tués par an sur les routes en France métropolitaine"
+    indicateur: "Tués sur les routes en France métropolitaine"
     unite: "tués"
     engagement:
       note: sans_chiffre
