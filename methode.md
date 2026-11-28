@@ -243,6 +243,8 @@ S'y ajoute `engagement.cibles`, les cibles chiffrées par période : `{ sens, pe
 
 ### La fiche autour des cartes
 
+**Le titre et sa précision.** Le `titre` est le nom que le lecteur dit ou tape, dans ses mots plutôt que ceux de l'administration (« Retraite à 64 ans », « TVA à 20 % »). C'est le même partout : fiche, cartes, partage, recherche. Il ne garde au plus qu'une parenthèse, et seulement pour un sigle (« Crédit d'impôt recherche (CIR) ») ou un nom courant (« Taxe sur les boissons sucrées (« taxe soda ») »). Pas de date, sauf si elle fait partie du nom. 50 caractères au plus (40 visés : deux lignes de carte), vérifiés au build. Ce que le titre laisse de côté (le périmètre audité, la réforme visée, la période, le texte ou l'organisme de référence) va dans la `precision`, facultative, 80 caractères au plus, affichée sous le titre de la fiche seulement : « Droits de consommation », « Réforme de 2018 », « Hadopi, puis Arcom depuis 2022 ». Les explications du dispositif relèvent du chapô, pas du titre.
+
 1. **Le chapô**, écrit en dernier. Il suit la règle des résumés pour décideurs : la conclusion d'abord (« bottom line up front », la pyramide inversée).
    * Phrase 1 : l'effet de l'effet recherché, avec le mot de sa note (« un effet limité »).
    * Phrase 2 : l'engagement et la mesure.

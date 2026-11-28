@@ -1,5 +1,5 @@
 ---
-titre: "Zones à faibles émissions (ZFE-m)"
+titre: "Zones à faibles émissions (ZFE)"
 resume: "Les ZFE ont un effet limité sur la qualité de l'air : 4,6 points sur 38,9 % de baisse des oxydes d'azote automobiles. L'État n'a fixé aucun objectif chiffré de dépollution ni organisé d'évaluation nationale. L'éviction sociale reste modérée faute de contrôles."
 theme: environnement
 instrument: regle

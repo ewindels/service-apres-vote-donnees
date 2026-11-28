@@ -1,5 +1,6 @@
 ---
-titre: "Réduction d'impôt Pinel (investissement locatif, 2014-2024)"
+titre: "Réduction d'impôt Pinel"
+precision: "Investissement locatif, 2014-2024"
 resume: "Le dispositif Pinel n'a eu qu'un effet limité sur l'offre de logements locatifs, pour un parc seulement temporaire. L'État n'a fixé aucun objectif chiffré après 2016, a évalué tardivement et ne sait pas compter les biens. Arrêté fin 2024, il coûtait encore 1,49 Md€ en 2025."
 theme: logement
 instrument: depense_fiscale

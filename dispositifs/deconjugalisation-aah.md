@@ -1,5 +1,6 @@
 ---
-titre: "Déconjugalisation de l'allocation aux adultes handicapés"
+titre: "Déconjugalisation de l'AAH"
+precision: "Allocation aux adultes handicapés calculée sans les revenus du conjoint"
 resume: "La déconjugalisation de l'AAH a un effet limité : près de 24 000 nouveaux entrants fin 2023 contre 80 000 attendus. L'État avait chiffré ses prévisions, sans prévoir de suivi légal ni publier de bilan annuel. Le surcoût atteint 280 M€ en 2024, sous les 500 M€ prévus."
 theme: solidarites
 instrument: depense_budgetaire

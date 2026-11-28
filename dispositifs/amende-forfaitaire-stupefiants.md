@@ -1,5 +1,6 @@
 ---
-titre: "Amende forfaitaire délictuelle pour usage de stupéfiants"
+titre: "Amende forfaitaire pour usage de stupéfiants"
+precision: "Amende forfaitaire délictuelle, depuis 2020"
 resume: "L'amende forfaitaire stupéfiants a un effet non mesuré sur la consommation et limité sur la charge des tribunaux. L'État n'avait fixé aucun objectif chiffré ni prévu d'évaluation au vote. Seules 40 % des amendes sont exécutées à un an et les mesures de soin ont chuté."
 theme: securite
 instrument: regle

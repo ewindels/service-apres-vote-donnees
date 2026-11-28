@@ -1,5 +1,6 @@
 ---
-titre: "Aides à l'installation contre les déserts médicaux"
+titre: "Aides contre les déserts médicaux"
+precision: "Aides à l'installation des médecins"
 resume: "Les aides financières à l'installation n'atteignent pas leur objectif contre les déserts médicaux, faute d'effet significatif quand elles sont isolées. L'État n'a fixé ni cible d'installations ni plafond budgétaire, et n'évalue pas le dispositif. Il coûte 205 M€ par an hors collectivités."
 theme: sante
 instrument: depense_budgetaire

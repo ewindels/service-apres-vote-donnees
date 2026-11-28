@@ -1,5 +1,6 @@
 ---
-titre: "Bouclier tarifaire sur l'électricité et le gaz"
+titre: "Bouclier tarifaire"
+precision: "Électricité et gaz, 2021-2025"
 resume: "Le bouclier tarifaire a atteint son but en contenant les factures d'énergie et l'inflation en 2022-2023, sans cible chiffrée sur l'inflation ni suivi prévu au vote. Son volet tarifaire a coûté 24 Md€, plus 18,4 Md€ de baisse de taxe, tout en freinant modérément la sobriété énergétique."
 theme: environnement
 instrument: depense_budgetaire

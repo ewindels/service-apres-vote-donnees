@@ -1,5 +1,6 @@
 ---
-titre: "Les 35 heures (lois Aubry)"
+titre: "Les 35 heures"
+precision: "Lois Aubry, 1998 et 2000"
 resume: "Les 35 heures affichent un bilan contrasté : 350 000 emplois créés sur 1998-2002 (effet débattu à long terme), mais une baisse effective de durée limitée à 5 %. Sans cible d'emploi votée, le suivi a cessé après 2004-2005. Le surcoût brut atteint 12,8 Md€ en 2013 (coût net débattu)."
 theme: travail
 instrument: regle

@@ -1,5 +1,6 @@
 ---
-titre: "Limitation à 80 km/h sur les routes secondaires"
+titre: "Limitation à 80 km/h"
+precision: "Routes secondaires"
 resume: "La limitation à 80 km/h a un effet limité : la mortalité a baissé, mais sous la cible de 300 vies par an, puis le retour au 90 km/h a érodé les gains. L'objectif était chiffré et l'évaluation prévue à deux ans, mais le suivi dédié a cessé après 2022. L'allongement des trajets reste modéré."
 theme: securite
 instrument: regle

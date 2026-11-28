@@ -1,5 +1,6 @@
 ---
-titre: "Parcoursup (loi ORE, 2018)"
+titre: "Parcoursup"
+precision: "Loi ORE de 2018"
 resume: "Parcoursup n'a eu qu'un effet limité sur la réussite en licence, l'accès sans refus et la mixité sociale. L'État n'a fixé aucun objectif chiffré, et suit les résultats chaque année sans avoir évalué l'impact propre des parcours aménagés. Le tirage au sort a bien disparu dès 2018."
 theme: education-recherche
 instrument: regle

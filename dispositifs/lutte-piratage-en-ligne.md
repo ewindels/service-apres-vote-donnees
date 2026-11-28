@@ -1,5 +1,6 @@
 ---
-titre: "Lutte contre le piratage en ligne (Hadopi puis Arcom)"
+titre: "Lutte contre le piratage (Hadopi)"
+precision: "Hadopi, puis Arcom depuis 2022"
 resume: "La lutte contre le piratage en ligne a un effet limité : le pair à pair recule, mais un quart des internautes pirate encore via l'IPTV et les VPN. L'État n'a fixé aucun objectif chiffré mais assure un suivi annuel, pour un coût public de 2,27 M€ en 2024."
 theme: culture
 instrument: regle

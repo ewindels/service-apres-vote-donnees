@@ -1,5 +1,6 @@
 ---
-titre: "Franchises médicales et participations forfaitaires"
+titre: "Franchises médicales"
+precision: "Et participations forfaitaires"
 resume: "L'objectif de responsabilisation des franchises et participations forfaitaires n'est pas atteint. L'État n'a fixé aucune cible sur les soins ni évalué leur effet. Elles réduisent les remboursements de 2,5 Md€ en 2025, avec un risque de renoncement pour les plus précaires."
 theme: sante
 instrument: prelevement

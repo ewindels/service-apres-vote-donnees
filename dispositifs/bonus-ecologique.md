@@ -1,5 +1,6 @@
 ---
-titre: "Bonus écologique (voiture électrique)"
+titre: "Bonus écologique"
+precision: "Aide à l'achat d'une voiture électrique"
 resume: "Le bonus écologique n'a qu'un effet limité sur l'électrification des voitures neuves : 19,9 % en 2025 pour un objectif de 26 %. Son suivi a été tardif et sa bascule hors budget en 2025 rompt le contrôle de son coût. En 2024, les ménages aisés captaient encore 82 % des achats avec bonus seul."
 theme: environnement
 instrument: depense_budgetaire

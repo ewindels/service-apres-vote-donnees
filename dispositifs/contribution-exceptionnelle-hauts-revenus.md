@@ -1,5 +1,6 @@
 ---
-titre: "Contribution exceptionnelle sur les hauts revenus (CEHR) et CDHR"
+titre: "Contribution sur les hauts revenus"
+precision: "Contribution exceptionnelle (CEHR) et différentielle (CDHR)"
 resume: "Le duo CEHR-CDHR a un effet limité : la CEHR rapporte près de trois fois sa cible, mais la CDHR n'atteint pas un cinquième de ses 2 Md€ annoncés. L'État a chiffré les recettes mais ignoré l'évitement, massif dès 2024. Le coût de gestion reste non mesuré."
 theme: financement
 instrument: prelevement

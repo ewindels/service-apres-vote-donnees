@@ -1,5 +1,6 @@
 ---
-titre: "Composante carbone des taxes sur l'énergie (« taxe carbone »)"
+titre: "Taxe carbone"
+precision: "Composante carbone des taxes sur l'énergie"
 resume: "La composante carbone a un effet limité sur les émissions fossiles, gelée fin 2018 après une hausse budgétaire. Faute de comptabilité dédiée et d'évaluation de l'État, son rendement et son impact restent mal connus ; son poids pèse davantage sur les ménages modestes et ruraux."
 theme: environnement
 instrument: prelevement

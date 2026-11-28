@@ -1,5 +1,6 @@
 ---
-titre: "Pacte Dutreil (transmission d'entreprises)"
+titre: "Pacte Dutreil"
+precision: "Transmission d'entreprises"
 resume: "Le Pacte Dutreil n'atteint pas son objectif sur l'investissement et l'emploi, même s'il favorise le maintien du contrôle familial. L'État n'avait fixé aucune cible chiffrée et ne l'a jamais évalué en vingt ans. Son coût statique officiel atteint 5 Md€ en 2024 puis 3,8 Md€ en 2025."
 theme: entreprises
 instrument: depense_fiscale

@@ -1,5 +1,6 @@
 ---
-titre: "Prime de partage de la valeur (ex-« prime Macron »)"
+titre: "Prime de partage de la valeur"
+precision: "Ex-« prime Macron »"
 resume: "La prime de partage de la valeur a un effet limité sur le pouvoir d'achat : environ 70 % de gain net, mais 30 % de substitution aux salaires. L'État n'a fixé aucune cible chiffrée ni suivi son coût statique, estimé à 1,1 Md€ pour la Sécurité sociale en 2022."
 theme: travail
 instrument: depense_fiscale

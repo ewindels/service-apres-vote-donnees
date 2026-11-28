@@ -1,5 +1,6 @@
 ---
-titre: "Expérimentation de l'uniforme à l'école (tenue unique)"
+titre: "Uniforme à l'école"
+precision: "Expérimentation de la tenue unique, 2024-2026"
 resume: "L'expérimentation de l'uniforme à l'école (tenue unique) a eu un effet limité sur le climat scolaire et nul sur les apprentissages, avant sa fin en 2026 sans généralisation. L'État n'avait fixé aucun seuil chiffré mais a publié son évaluation, pour 1,6 M€ versés en 2024."
 theme: education-recherche
 instrument: regle

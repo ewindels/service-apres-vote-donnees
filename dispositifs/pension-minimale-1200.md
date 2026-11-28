@@ -1,5 +1,6 @@
 ---
-titre: "Pension minimale à « 1 200 € » (réforme de 2023)"
+titre: "Pension minimale à « 1 200 € »"
+precision: "Réforme des retraites de 2023"
 resume: "La revalorisation des petites pensions a un effet limité : moins d'un tiers des retraités sous 1 200 € en bénéficie, pour un gain moyen de 30 € à 45 € par mois. L'État a chiffré sa promesse sans organiser de suivi comptable, et la mise en œuvre a accumulé retards et 115 M€ d'indus."
 theme: retraites
 instrument: depense_budgetaire

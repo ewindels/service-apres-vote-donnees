@@ -1,5 +1,6 @@
 ---
-titre: "Tarif réduit du gazole non routier (agriculture, BTP)"
+titre: "Tarif réduit du gazole non routier"
+precision: "Agriculture, BTP"
 resume: "Le tarif réduit du gazole non routier n'a qu'un effet limité : utile aux marges agricoles, il ne se justifie guère dans le BTP. L'État n'a fixé aucun objectif chiffré ni suivi régulier. Cette niche défavorable au climat a coûté 2,93 Md€ en 2025."
 theme: environnement
 instrument: depense_fiscale

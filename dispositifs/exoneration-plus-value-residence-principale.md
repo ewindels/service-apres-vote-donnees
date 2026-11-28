@@ -1,5 +1,5 @@
 ---
-titre: "Exonération de la plus-value sur la résidence principale"
+titre: "Plus-value exonérée sur la résidence principale"
 resume: "L'effet de l'exonération sur la mobilité résidentielle n'a jamais été mesuré en France. L'État n'a fixé ni objectif chiffré ni plafond, et n'estime qu'un ordre de grandeur pour l'impôt sur le revenu. Avec les prélèvements sociaux, la Cour des comptes l'évalue à 5,6 Md€ en 2022."
 theme: logement
 instrument: depense_fiscale

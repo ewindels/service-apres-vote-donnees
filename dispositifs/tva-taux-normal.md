@@ -1,5 +1,6 @@
 ---
-titre: "Taxe sur la valeur ajoutée (taux normal)"
+titre: "TVA à 20 %"
+precision: "Taux normal"
 resume: "Premier impôt de France (208,8 Md€ en 2025), la TVA au taux normal de 20 % est mesurée sans cible pluriannuelle. Les recettes sont suivies chaque année, mais sans ventilation officielle par taux. La fraude (12,1 Md€ selon l'UE) n'est estimée par les impôts (DGFiP) que depuis 2024."
 theme: financement
 instrument: prelevement

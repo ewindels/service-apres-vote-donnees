@@ -1,5 +1,6 @@
 ---
-titre: "Réforme du baccalauréat (Bac 2021 / Blanquer)"
+titre: "Réforme du baccalauréat"
+precision: "Bac 2021, dite réforme Blanquer"
 resume: "La réforme du baccalauréat n'a pas atteint ses objectifs : effet limité en licence et bond des mentions de 52,5 % à 67,8 %. L'État n'a fixé aucun objectif chiffré et n'a évalué l'ensemble qu'en 2023. La part d'élèves suivant des maths a chuté de 90 % à 59 %."
 theme: education-recherche
 instrument: regle

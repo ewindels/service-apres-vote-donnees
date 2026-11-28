@@ -1,5 +1,6 @@
 ---
-titre: "Baisse de l'impôt sur les sociétés de 33 % à 25 %"
+titre: "Baisse de l'impôt sur les sociétés à 25 %"
+precision: "De 33,3 % à 25 %, de 2018 à 2022"
 resume: "L'effet de la baisse de l'impôt sur les sociétés sur l'investissement reste non mesuré. L'État n'a fixé aucune cible économique ni prévu d'évaluation au vote. Le coût statique est estimé à 11,7 Md€ en 2023 ; les recettes totales atteignent 59,9 Md€ courants en 2025, portées par les profits."
 theme: entreprises
 instrument: prelevement

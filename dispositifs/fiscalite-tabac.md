@@ -1,5 +1,6 @@
 ---
-titre: "Fiscalité du tabac (droits de consommation)"
+titre: "Fiscalité du tabac"
+precision: "Droits de consommation"
 resume: "Le recul du tabagisme est atteint : les fumeurs quotidiens tombent à 18,2 % en 2024, sous la cible de 20 % des plans tabac. Cette cible avait été repoussée de 2024 à 2027, et le suivi n'isole pas l'effet propre des taxes. Elles rapportent 12,7 Md€ en 2025, avec 17,7 % d'achats hors réseau légal."
 theme: sante
 instrument: prelevement

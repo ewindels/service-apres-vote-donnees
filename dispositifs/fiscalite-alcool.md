@@ -1,5 +1,6 @@
 ---
-titre: "Fiscalité de l'alcool (droits d'accises et cotisation sécurité sociale)"
+titre: "Fiscalité de l'alcool"
+precision: "Droits d'accises et cotisation sécurité sociale"
 resume: "La fiscalité de l'alcool n'a qu'un effet limité sur la consommation : l'Assemblée nationale juge les taxes trop faibles, surtout sur le vin. L'État n'a fixé aucun objectif chiffré et n'a évalué l'effet des taxes que tardivement, pour environ 4,2 Md€ de recettes par an."
 theme: sante
 instrument: prelevement

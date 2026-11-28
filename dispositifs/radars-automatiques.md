@@ -1,5 +1,6 @@
 ---
-titre: "Radars automatiques de contrôle de vitesse"
+titre: "Radars automatiques"
+precision: "Contrôle de vitesse"
 resume: "Les radars automatiques ont atteint leur objectif sur les vitesses et la mortalité, malgré un plateau depuis 2013. Aucune cible chiffrée n'avait été fixée et seuls des tiers ont mesuré leur effet propre. Les radars rapportent 947 M€ en 2025, sur fond de recul policier."
 theme: securite
 instrument: regle

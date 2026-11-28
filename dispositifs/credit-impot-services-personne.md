@@ -1,5 +1,6 @@
 ---
-titre: "Crédit d'impôt services à la personne (emploi à domicile)"
+titre: "Crédit d'impôt pour l'emploi à domicile"
+precision: "Services à la personne"
 resume: "Le crédit d'impôt services à la personne n'a pas atteint son objectif d'emploi et n'a qu'un effet limité sur le travail non déclaré. L'État a abandonné ses cibles chiffrées et son suivi de l'emploi. Son coût fiscal brut atteint 6,88 Md€ en 2025 après plusieurs élargissements."
 theme: travail
 instrument: depense_fiscale

@@ -1,5 +1,6 @@
 ---
-titre: "Prélèvement forfaitaire unique (PFU, « flat tax »)"
+titre: "Prélèvement forfaitaire unique (« flat tax »)"
+precision: "PFU"
 resume: "La « flat tax » a un effet limité sur l'investissement (nul sur les firmes existantes, mêlé à l'IS sur les créations). L'État n'a fixé aucune cible et le suivi a cessé en 2023. La forte hausse des dividendes a annulé le coût budgétaire les premières années."
 theme: entreprises
 instrument: prelevement

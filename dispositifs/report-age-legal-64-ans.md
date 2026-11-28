@@ -1,5 +1,6 @@
 ---
-titre: "Report de l'âge légal de départ à la retraite à 64 ans"
+titre: "Retraite à 64 ans"
+precision: "Report de l'âge légal de départ, réforme de 2023"
 resume: "Le report de l'âge légal à 64 ans relève l'âge effectif de départ et le taux d'emploi des 60-64 ans, tout en prolongeant le temps hors emploi des plus fragiles. L'État a chiffré ses cibles à moyen terme, mais la suspension votée fin 2025 freine les économies dès 2026."
 theme: retraites
 instrument: regle

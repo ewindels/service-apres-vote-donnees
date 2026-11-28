@@ -1,5 +1,6 @@
 ---
-titre: "Crédit d'impôt pour la compétitivité et l'emploi (CICE, 2013-2018)"
+titre: "Crédit d'impôt compétitivité emploi (CICE)"
+precision: "2013-2018, transformé en baisse de cotisations patronales en 2019"
 resume: "Le CICE n'a pas atteint l'effet visé sur l'emploi (100 000 postes contre 300 000 promis) ni sur l'investissement ou les exportations. L'État avait fixé une cible d'emplois et prévu un suivi annuel par comité indépendant. Supprimé fin 2018 hors Mayotte, il a coûté 108,4 Md€ entre 2014 et 2025."
 theme: travail
 instrument: depense_fiscale

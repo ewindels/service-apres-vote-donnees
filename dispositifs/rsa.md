@@ -1,5 +1,6 @@
 ---
-titre: "Revenu de solidarité active (RSA) et réforme de 2024"
+titre: "Revenu de solidarité active (RSA)"
+precision: "Et sa réforme France Travail (loi de 2023, en vigueur en 2025)"
 resume: "Le RSA a un effet limité sur la pauvreté (il en réduit l'intensité sans en faire sortir) et un retour à l'emploi non atteint. L'État n'a plus de cible chiffrée et a interrompu l'évaluation dédiée après trois ans. Il coûte 12,22 Md€ d'allocations en 2023, avec un tiers de non-recours."
 theme: solidarites
 instrument: depense_budgetaire

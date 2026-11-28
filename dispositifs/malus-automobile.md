@@ -1,5 +1,6 @@
 ---
-titre: "Malus automobile (CO₂ et poids)"
+titre: "Malus automobile"
+precision: "Malus CO₂ et malus au poids"
 resume: "Le malus CO₂ réduit efficacement les émissions des voitures neuves, mais le malus poids échoue à freiner leur alourdissement. L'État n'a fixé aucun objectif chiffré propre au malus et l'a évalué tardivement. Ses recettes dépassent la cible initiale, mais ne sont plus isolées au budget depuis 2024."
 theme: environnement
 instrument: prelevement

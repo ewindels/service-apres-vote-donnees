@@ -1,5 +1,6 @@
 ---
-titre: "Quotient familial et son plafonnement"
+titre: "Quotient familial"
+precision: "Et son plafonnement"
 resume: "Le quotient familial n'a qu'un effet limité sur la natalité. L'État ne s'est fixé aucune cible chiffrée et n'a pas évalué cet effet, mesuré seulement par la recherche. Retiré des dépenses fiscales en 1998, il représente un coût statique d'au moins 11,7 Md€/an sans suivi annuel."
 theme: solidarites
 instrument: depense_fiscale

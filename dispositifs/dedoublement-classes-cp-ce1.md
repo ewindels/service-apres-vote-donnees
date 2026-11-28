@@ -1,5 +1,6 @@
 ---
-titre: "Dédoublement des classes de CP et CE1 en éducation prioritaire"
+titre: "Dédoublement des classes de CP et CE1"
+precision: "En éducation prioritaire (REP et REP+)"
 resume: "Le dédoublement des CP et CE1 a un effet limité : nets en CP, les progrès s'estompent en français au collège malgré un maintien en maths. L'État n'a fixé aucune cible chiffrée sur les acquis, mais suit l'effet depuis 2017. Son coût (près de 800 M€/an avec la grande section) n'est pas isolé."
 theme: education-recherche
 instrument: depense_budgetaire

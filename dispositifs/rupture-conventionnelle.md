@@ -1,5 +1,6 @@
 ---
-titre: "Rupture conventionnelle individuelle"
+titre: "Rupture conventionnelle"
+precision: "Individuelle"
 resume: "La rupture conventionnelle a un effet limité : les litiges prud'homaux ont reculé, mais elle a surtout remplacé des démissions. L'État n'avait fixé aucune cible ni prévu d'évaluation au vote. En 2024, les allocations brutes versées atteignent 9,4 Md€, hors substitutions."
 theme: travail
 instrument: regle

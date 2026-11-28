@@ -1,5 +1,6 @@
 ---
-titre: "Compte personnel de formation (CPF, réforme 2018)"
+titre: "Compte personnel de formation (CPF)"
+precision: "Réforme de 2018"
 resume: "La réforme du CPF de 2018 a un effet limité : elle a démocratisé l'accès à la formation, mais son impact sur les qualifications et l'emploi reste incertain. Aucun objectif chiffré ni suivi causal n'était prévu au vote. Les dépenses ont bondi à 2 Md€ par an, sur fond de fraude massive."
 theme: travail
 instrument: depense_budgetaire

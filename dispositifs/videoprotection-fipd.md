@@ -1,5 +1,6 @@
 ---
-titre: "Vidéoprotection sur la voie publique (FIPD)"
+titre: "Vidéoprotection sur la voie publique"
+precision: "Financée par le FIPD"
 resume: "La vidéoprotection financée par l'État n'a pas d'effet démontré sur la délinquance ni sur l'élucidation. L'État n'a fixé aucun objectif chiffré de sécurité et n'a jamais mené d'évaluation nationale. Les crédits 2025 (22,6 M€) restent moitié sous la trajectoire votée en 2023."
 theme: securite
 instrument: depense_budgetaire
