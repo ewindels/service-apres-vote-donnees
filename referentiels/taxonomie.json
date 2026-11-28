@@ -2,56 +2,67 @@
   "themes": {
     "sante": {
       "label": "Santé",
+      "court": "Santé",
       "description": "Prévention, soins et comportements à risque : tabac, alcool, sucre, médicaments.",
       "missions": ["Santé", "Sécurité sociale (branche maladie)"]
     },
     "environnement": {
       "label": "Environnement et énergie",
+      "court": "Environnement",
       "description": "Climat, pollution, énergie et rénovation : taxes, aides et niches écologiques.",
       "missions": ["Écologie, développement et mobilité durables"]
     },
     "travail": {
       "label": "Travail et emploi",
+      "court": "Travail",
       "description": "Emploi, salaires et cotisations : aides à l’embauche, exonérations, prime d’activité.",
       "missions": ["Travail, emploi et administration des ministères sociaux"]
     },
     "education-recherche": {
       "label": "Éducation et recherche",
+      "court": "Éducation",
       "description": "École, enseignement supérieur et recherche, publique comme privée.",
       "missions": ["Enseignement scolaire", "Recherche et enseignement supérieur"]
     },
     "logement": {
       "label": "Logement",
+      "court": "Logement",
       "description": "Construction, achat, location : aides personnelles et investissement locatif.",
       "missions": ["Cohésion des territoires (logement)"]
     },
     "solidarites": {
       "label": "Familles et solidarités",
+      "court": "Solidarités",
       "description": "Familles, pauvreté, handicap : prestations, quotient familial, réductions d’impôt.",
       "missions": ["Solidarité, insertion et égalité des chances", "Sécurité sociale (branche famille)"]
     },
     "retraites": {
       "label": "Retraites",
+      "court": "Retraites",
       "description": "Pensions, épargne retraite et leur financement.",
       "missions": ["Régimes sociaux et de retraite", "Sécurité sociale (branche vieillesse)"]
     },
     "entreprises": {
       "label": "Entreprises et investissement",
+      "court": "Entreprises",
       "description": "Épargne, capital et compétitivité : fiscalité du capital, aides aux entreprises.",
       "missions": ["Économie", "Investir pour la France de 2030"]
     },
     "financement": {
       "label": "Financement de l’État",
+      "court": "Impôts",
       "description": "Les impôts dont le seul but est de rapporter : TVA, impôt sur le revenu, impôt sur les sociétés.",
       "missions": ["Recettes fiscales du budget général"]
     },
     "securite": {
       "label": "Sécurité et justice",
+      "court": "Sécurité",
       "description": "Sécurité routière, ordre public, justice et sanctions : règles, contrôles et moyens.",
       "missions": ["Sécurités", "Justice"]
     },
     "culture": {
       "label": "Culture",
+      "court": "Culture",
       "description": "Accès à la culture, création et droits d’auteur : aides, règles et fiscalité culturelle.",
       "missions": ["Culture"]
     }
